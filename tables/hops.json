@@ -1,0 +1,514 @@
+[{
+	"name": "Admiral",
+	"alpha": 14.75
+}, {
+	"name": "Centennial",
+	"alpha": 10.5
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Sorachi Ace",
+	"alpha": 13.7
+}, {
+	"name": "Fuggles",
+	"alpha": 3.6
+}, {
+	"name": "Citra",
+	"alpha": 13.9
+}, {
+	"name": "Challenger",
+	"alpha": 7.5
+}, {
+	"name": "Citra",
+	"alpha": 12.3
+}, {
+	"name": "Hallertauer Mittelfrueh",
+	"alpha": 4
+}, {
+	"name": "Columbus (Tomahawk)",
+	"alpha": 13.9
+}, {
+	"name": "Calyspo",
+	"alpha": 12.8
+}, {
+	"name": "Chinook",
+	"alpha": 13
+}, {
+	"name": "Amarillo Gold",
+	"alpha": 8.5
+}, {
+	"name": "Citra",
+	"alpha": 14
+}, {
+	"name": "Hallertauer Hersbrucker",
+	"alpha": 2.4
+}, {
+	"name": "Nelson Sauvin",
+	"alpha": 11.4
+}, {
+	"name": "Cluster",
+	"alpha": 7
+}, {
+	"name": "Galaxy",
+	"alpha": 12.5
+}, {
+	"name": "Columbus",
+	"alpha": 15
+}, {
+	"name": "Hallertauer",
+	"alpha": 7.2
+}, {
+	"name": "Galaxy",
+	"alpha": 14.6
+}, {
+	"name": "Motueka",
+	"alpha": 7.6
+}, {
+	"name": "Crystal",
+	"alpha": 4.5
+}, {
+	"name": "Aramis",
+	"alpha": 8.2
+}, {
+	"name": "East Kent Goldings 2009",
+	"alpha": 5
+}, {
+	"name": "Hallertauer",
+	"alpha": 7.2
+}, {
+	"name": "Amarillo Gold",
+	"alpha": 8.5
+}, {
+	"name": "East Kent Golding",
+	"alpha": 4.75
+}, {
+	"name": "Eroica",
+	"alpha": 12
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "First Gold",
+	"alpha": 7.5
+}, {
+	"name": "Mt. Hood",
+	"alpha": 5.5
+}, {
+	"name": "Tettnang",
+	"alpha": 4.4
+}, {
+	"name": "Fuggle",
+	"alpha": 4.75
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Sorachi Ace",
+	"alpha": 13.7
+}, {
+	"name": "Goldings, East Kent",
+	"alpha": 5
+}, {
+	"name": "Fuggles",
+	"alpha": 3.6
+}, {
+	"name": "Hallertauer Mittelfrueh",
+	"alpha": 4
+}, {
+	"name": "Ahtanum",
+	"alpha": 6
+}, {
+	"name": "Fuggle",
+	"alpha": 4.75
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "Galena",
+	"alpha": 13
+}, {
+	"name": "Amarillo Gold",
+	"alpha": 8.5
+}, {
+	"name": "German Spalt Select",
+	"alpha": 5.5
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Glacier",
+	"alpha": 5.5
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "Fuggles",
+	"alpha": 3.6
+}, {
+	"name": "Golding",
+	"alpha": 4.75
+}, {
+	"name": "Golding",
+	"alpha": 4.5
+}, {
+	"name": "Hallertau",
+	"alpha": 4.5
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Falconer's Flight 7C's",
+	"alpha": 9.9
+}, {
+	"name": "Hallertau",
+	"alpha": 4.5
+}, {
+	"name": "Citra",
+	"alpha": 13
+}, {
+	"name": "Mt. Hood",
+	"alpha": 5.5
+}, {
+	"name": "Citra",
+	"alpha": 12
+}, {
+	"name": "US Cascade",
+	"alpha": 5.4
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Hallertau Gold",
+	"alpha": 6.25
+}, {
+	"name": "US Citra",
+	"alpha": 15.6
+}, {
+	"name": "UK Golding",
+	"alpha": 4.5
+}, {
+	"name": "Sorachi Ace",
+	"alpha": 11.45
+}, {
+	"name": "Citra",
+	"alpha": 12
+}, {
+	"name": "Mount Rainier",
+	"alpha": 6.55
+}, {
+	"name": "Palisade",
+	"alpha": 7.5
+}, {
+	"name": "Galaxy",
+	"alpha": 14.15
+}, {
+	"name": "Hallertauer Mittelfrüh",
+	"alpha": 4.25
+}, {
+	"name": "Herkules",
+	"alpha": 14.5
+}, {
+	"name": "Merkur",
+	"alpha": 13.5
+}, {
+	"name": "Opal",
+	"alpha": 6.5
+}, {
+	"name": "Saphir",
+	"alpha": 3.25
+}, {
+	"name": "Smaragd",
+	"alpha": 5
+}, {
+	"name": "Taurus",
+	"alpha": 14.5
+}, {
+	"name": "Cascade",
+	"alpha": 7
+}, {
+	"name": "Hallertauer Aroma",
+	"alpha": 7.5
+}, {
+	"name": "Motueka",
+	"alpha": 7
+}, {
+	"name": "Nelson Sauvin",
+	"alpha": 12.5
+}, {
+	"name": "Amarillo",
+	"alpha": 9.5
+}, {
+	"name": "Hallertauer Tradition",
+	"alpha": 4.5
+}, {
+	"name": "Pacifica",
+	"alpha": 5.5
+}, {
+	"name": "Pacific Gem",
+	"alpha": 14
+}, {
+	"name": "Riwaka",
+	"alpha": 5.5
+}, {
+	"name": "Styrian Arora",
+	"alpha": 8.25
+}, {
+	"name": "Styrian Bobek",
+	"alpha": 5.25
+}, {
+	"name": "Styrian Celeia",
+	"alpha": 4.5
+}, {
+	"name": "Pilgrim",
+	"alpha": 11
+}, {
+	"name": "Goldings (Kent)",
+	"alpha": 6.6
+}, {
+	"name": "Goldings (Kent)",
+	"alpha": 6.6
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "Hersbrucker",
+	"alpha": 4.25
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "Citra",
+	"alpha": 11
+}, {
+	"name": "Pearle",
+	"alpha": 7.2
+}, {
+	"name": "Williamette",
+	"alpha": 5.2
+}, {
+	"name": "Williamette",
+	"alpha": 5.2
+}, {
+	"name": "Williamette",
+	"alpha": 5.2
+}, {
+	"name": "Williamette",
+	"alpha": 5.2
+}, {
+	"name": "Spalter",
+	"alpha": 4.5
+}, {
+	"name": "Mt. Hood",
+	"alpha": 5.5
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "Horizon",
+	"alpha": 12
+}, {
+	"name": "Mt. Hood",
+	"alpha": 5.5
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "Kent Golding",
+	"alpha": 4.75
+}, {
+	"name": "Liberty",
+	"alpha": 4
+}, {
+	"name": "Magnum",
+	"alpha": 13
+}, {
+	"name": "Magnum",
+	"alpha": 13
+}, {
+	"name": "Millenium",
+	"alpha": 15.5
+}, {
+	"name": "Mount Hood",
+	"alpha": 6.5
+}, {
+	"name": "Newport",
+	"alpha": 15.25
+}, {
+	"name": "Apollo",
+	"alpha": 19.5
+}, {
+	"name": "Northdown",
+	"alpha": 8.5
+}, {
+	"name": "Northern Brewer",
+	"alpha": 8.5
+}, {
+	"name": "Northern Brewer",
+	"alpha": 9
+}, {
+	"name": "Nugget",
+	"alpha": 13
+}, {
+	"name": "Olympic",
+	"alpha": 12
+}, {
+	"name": "Perle",
+	"alpha": 7.25
+}, {
+	"name": "Perle",
+	"alpha": 7.75
+}, {
+	"name": "Phoenix",
+	"alpha": 4.85
+}, {
+	"name": "Pioneer",
+	"alpha": 9
+}, {
+	"name": "Polish Lublin",
+	"alpha": 3.75
+}, {
+	"name": "Bramling Cross",
+	"alpha": 6
+}, {
+	"name": "Progress",
+	"alpha": 6.25
+}, {
+	"name": "Pride of Ringwood",
+	"alpha": 8.5
+}, {
+	"name": "Riwaka",
+	"alpha": 5.5
+}, {
+	"name": "Saaz",
+	"alpha": 3.75
+}, {
+	"name": "Saaz",
+	"alpha": 3.75
+}, {
+	"name": "San Juan Ruby Red",
+	"alpha": 7.01
+}, {
+	"name": "Santiam",
+	"alpha": 6
+}, {
+	"name": "Satus",
+	"alpha": 13.25
+}, {
+	"name": "Simcoe",
+	"alpha": 13
+}, {
+	"name": "Spalt",
+	"alpha": 4.75
+}, {
+	"name": "Brewers Gold",
+	"alpha": 9
+}, {
+	"name": "Spalt Select",
+	"alpha": 5
+}, {
+	"name": "Spalt Select",
+	"alpha": 4
+}, {
+	"name": "Sterling",
+	"alpha": 7.5
+}, {
+	"name": "Strisselspalt",
+	"alpha": 4
+}, {
+	"name": "Styrian Golding",
+	"alpha": 5.25
+}, {
+	"name": "Summit",
+	"alpha": 18
+}, {
+	"name": "Tardif de Bourgogne",
+	"alpha": 4.3
+}, {
+	"name": "Target",
+	"alpha": 11
+}, {
+	"name": "Tettnanger",
+	"alpha": 4.5
+}, {
+	"name": "Tettnanger",
+	"alpha": 4.5
+}, {
+	"name": "Brewers Gold",
+	"alpha": 6
+}, {
+	"name": "Tomahawk",
+	"alpha": 16
+}, {
+	"name": "Tradition",
+	"alpha": 6
+}, {
+	"name": "Ultra",
+	"alpha": 4.75
+}, {
+	"name": "Vanguard",
+	"alpha": 4.835
+}, {
+	"name": "Warrior",
+	"alpha": 16
+}, {
+	"name": "WGV (Whitbread Golding Variety)",
+	"alpha": 6
+}, {
+	"name": "Willamette",
+	"alpha": 4.75
+}, {
+	"name": "Yakima Cluster",
+	"alpha": 7.25
+}, {
+	"name": "Zeus",
+	"alpha": 15
+}, {
+	"name": "Tettnang",
+	"alpha": 4.4
+}, {
+	"name": "Bullion",
+	"alpha": 7.75
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 4.6
+}, {
+	"name": "East Kent Goldings",
+	"alpha": 4.5
+}, {
+	"name": "Styrian Goldings",
+	"alpha": 5.4
+}, {
+	"name": "Hallertau Mittelfruh",
+	"alpha": 4.5
+}, {
+	"name": "Mt. Hood",
+	"alpha": 5.5
+}, {
+	"name": "HBC342",
+	"alpha": 14.9
+}, {
+	"name": "Cascade",
+	"alpha": 5.75
+}, {
+	"name": "Goldings, East Kent",
+	"alpha": 5
+}, {
+	"name": "Falconer's Flight",
+	"alpha": 11.4
+}, {
+	"name": "Warrior®",
+	"alpha": 16
+}, {
+	"name": "Fuggles",
+	"alpha": 4
+}]

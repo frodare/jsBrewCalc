@@ -2,5 +2,8 @@
  * jsBrewCalc
  */
 
+(function() {
 
- 
+
+
+}());

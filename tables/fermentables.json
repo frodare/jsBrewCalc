@@ -1,3 +1,9 @@
+/*
+ * Fermentables Table from BrewBlogger
+ *   Color in degrees L
+ *   TODO: convert PPG to PPL?
+ */
+
 [{
 	"name": "2 Row Lager/Pils Malt",
 	"value": 37.00

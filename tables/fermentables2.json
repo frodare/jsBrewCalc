@@ -1,0 +1,2809 @@
+[{
+	"name": "2-Row Brewers Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Ashburne® Mild Malt",
+	"ppg": 36,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Bohemian Pilsner Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Floor-Malted Bohemian Pilsner Malt",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Bohemian Floor-Malted Dark Malt",
+	"ppg": 34,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "Bohemian Floor-Malted Wheat Malt",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Abbey Malt®",
+	"ppg": 0,
+	"color": 17,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® I",
+	"ppg": 0,
+	"color": 337,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® II",
+	"ppg": 0,
+	"color": 431,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® III",
+	"ppg": 0,
+	"color": 525,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® SPECIAL I (Dehusked Barley)",
+	"ppg": 32,
+	"color": 337,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® SPECIAL II (Dehusked Barley)",
+	"ppg": 32,
+	"color": 431,
+	"type": "Grain"
+}, {
+	"name": "Bonlander® Munich Malt",
+	"ppg": 35,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "CARAFA® SPECIAL III (Dehusked Barley)",
+	"ppg": 32,
+	"color": 525,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Wheat Malt (Roasted Malt)",
+	"ppg": 33,
+	"color": 375,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Rye Malt (Roasted Malt)",
+	"ppg": 31,
+	"color": 244,
+	"type": "Grain"
+}, {
+	"name": "Rye Malt",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Spelt Malt (Chocolate German Wheat Malt)",
+	"ppg": 32,
+	"color": 206,
+	"type": "Grain"
+}, {
+	"name": "Roasted Rye",
+	"ppg": 24,
+	"color": 244,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley",
+	"ppg": 25,
+	"color": 431,
+	"type": "Grain"
+}, {
+	"name": "Organic Pilsner Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Organic Vienna Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Organic Munich Malt I",
+	"ppg": 37,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Aromatic® (Munich) Malt",
+	"ppg": 35,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Organic Munich Malt II",
+	"ppg": 37,
+	"color": 8,
+	"type": "Grain"
+}, {
+	"name": "Organic Wheat Malt",
+	"ppg": 39,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Organic CARAPILS®",
+	"ppg": 33,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Organic CARAHELL®",
+	"ppg": 33,
+	"color": 9,
+	"type": "Grain"
+}, {
+	"name": "Organic CARARED®",
+	"ppg": 33,
+	"color": 17,
+	"type": "Grain"
+}, {
+	"name": "Organic CARAMUNICH®",
+	"ppg": 35,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Organic CARAFA®",
+	"ppg": 35,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Diastatic Wheat Malt",
+	"ppg": 35,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Diastatic Barley Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Bavarian Pilsner",
+	"ppg": 33,
+	"color": 6,
+	"type": "Liquid Extract"
+}, {
+	"name": "Munich Malt 10L",
+	"ppg": 35,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Bavarian Heffeweizen",
+	"ppg": 33,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Munich Amber",
+	"ppg": 33,
+	"color": 9,
+	"type": "Liquid Extract"
+}, {
+	"name": "Vienna Red",
+	"ppg": 33,
+	"color": 17,
+	"type": "Liquid Extract"
+}, {
+	"name": "Bavarian Dunkel",
+	"ppg": 33,
+	"color": 26,
+	"type": "Liquid Extract"
+}, {
+	"name": "Bavarian Maibock",
+	"ppg": 33,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Bamberg Rauch (Smoked Beer)",
+	"ppg": 33,
+	"color": 13,
+	"type": "Liquid Extract"
+}, {
+	"name": "Munich October Beer",
+	"ppg": 33,
+	"color": 15,
+	"type": "Liquid Extract"
+}, {
+	"name": "Distilling Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Finest Pale Ale Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Best Pale Ale Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Munich Malt 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Pilsner Lager Malt",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Caramalt",
+	"ppg": 33,
+	"color": 11,
+	"type": "Grain"
+}, {
+	"name": "Crystal Malt",
+	"ppg": 33,
+	"color": 101,
+	"type": "Grain"
+}, {
+	"name": "Munich Malt",
+	"ppg": 35,
+	"color": 7,
+	"type": "Grain"
+}, {
+	"name": "Vienna Malt",
+	"ppg": 36,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Imperial Malt",
+	"ppg": 36,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Amber Malt",
+	"ppg": 33,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Brown Malt",
+	"ppg": 31,
+	"color": 150,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Malt",
+	"ppg": 31,
+	"color": 337,
+	"type": "Grain"
+}, {
+	"name": "Black Malt",
+	"ppg": 31,
+	"color": 497,
+	"type": "Grain"
+}, {
+	"name": "Smoked Malt",
+	"ppg": 37,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley",
+	"ppg": 30,
+	"color": 487,
+	"type": "Grain"
+}, {
+	"name": "Aromatic Barley Malt",
+	"ppg": 35,
+	"color": 22,
+	"type": "Grain"
+}, {
+	"name": "Pinhead Oats",
+	"ppg": 31,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Oat Flakes",
+	"ppg": 31,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Golden Naked Oats",
+	"ppg": 33,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "Rye Crystal",
+	"ppg": 33,
+	"color": 116,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Roasted Malt",
+	"ppg": 37,
+	"color": 112,
+	"type": "Grain"
+}, {
+	"name": "Peated Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Pilsen 2-Row",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Carapils® Malt",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Pilsen 6-Row",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Peated (Smoked)",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Diastatic",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Acid",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Château Wheat Blanc",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Château Vienna 2-Row",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Château Vienna 6-Row",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Château Pale Ale 2-Row",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Château Pale Ale 6-Row",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Château Wheat Munich",
+	"ppg": 39,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "2-Row Carapils® Malt",
+	"ppg": 34,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "Château Munich Light® 2-Row",
+	"ppg": 37,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "Château Munich Light® 6-Row",
+	"ppg": 37,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "Château Cara Blond®",
+	"ppg": 36,
+	"color": 7,
+	"type": "Grain"
+}, {
+	"name": "Château Munich",
+	"ppg": 37,
+	"color": 9,
+	"type": "Grain"
+}, {
+	"name": "Château Melano Light",
+	"ppg": 37,
+	"color": 15,
+	"type": "Grain"
+}, {
+	"name": "Château Abbey®",
+	"ppg": 37,
+	"color": 17,
+	"type": "Grain"
+}, {
+	"name": "Château Cara Ruby®",
+	"ppg": 35,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Château Biscuit®",
+	"ppg": 35,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Château Melano",
+	"ppg": 37,
+	"color": 30,
+	"type": "Grain"
+}, {
+	"name": "Château Arôme",
+	"ppg": 36,
+	"color": 37,
+	"type": "Grain"
+}, {
+	"name": "Caramel Malt 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Château Cara Gold®",
+	"ppg": 34,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Château Crystal®",
+	"ppg": 36,
+	"color": 56,
+	"type": "Grain"
+}, {
+	"name": "Château Café Light®",
+	"ppg": 35,
+	"color": 94,
+	"type": "Grain"
+}, {
+	"name": "Château Spécial B®",
+	"ppg": 35,
+	"color": 112,
+	"type": "Grain"
+}, {
+	"name": "Château Café",
+	"ppg": 35,
+	"color": 187,
+	"type": "Grain"
+}, {
+	"name": "Château Chocolat",
+	"ppg": 34,
+	"color": 337,
+	"type": "Grain"
+}, {
+	"name": "Château Black",
+	"ppg": 34,
+	"color": 562,
+	"type": "Grain"
+}, {
+	"name": "Château Roasted Barley",
+	"ppg": 30,
+	"color": 487,
+	"type": "Grain"
+}, {
+	"name": "Château Whisky Light®",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Château Whisky",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "2-Row Caramel Malt 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Pilsen Nature®",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Munich Nature",
+	"ppg": 37,
+	"color": 9,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Abbey Nature®",
+	"ppg": 36,
+	"color": 9,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Cara Blond Nature",
+	"ppg": 36,
+	"color": 7,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Cara Ruby Nature",
+	"ppg": 35,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Cara Gold Nature®",
+	"ppg": 34,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Biscuit Nature",
+	"ppg": 35,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Organic Château Black Nature",
+	"ppg": 34,
+	"color": 562,
+	"type": "Grain"
+}, {
+	"name": "Pilsen Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Kölsch",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "6-Row Brewers Malt",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Caramel Malt 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Dark Munich Malt",
+	"ppg": 37,
+	"color": 12,
+	"type": "Grain"
+}, {
+	"name": "American 2-Row",
+	"ppg": 38,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "American 6-Row",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pilsner",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "White Wheat",
+	"ppg": 41,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Red Wheat",
+	"ppg": 38,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Finest Maris Otter Ale Malt",
+	"ppg": 38,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Best Pale Ale Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Extra Pale Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Premium Lager Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "2-Row Caramel Malt 30L",
+	"ppg": 34,
+	"color": 30,
+	"type": "Grain"
+}, {
+	"name": "Premium Traditional Lager Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Crisp EURO Pilsner Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Crisp Melanoidin Malt",
+	"ppg": 36,
+	"color": 19,
+	"type": "Grain"
+}, {
+	"name": "Crisp Dextrin Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Honey, Avocado",
+	"ppg": 35,
+	"color": 10,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Buckwheat",
+	"ppg": 35,
+	"color": 10,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Clover",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Eucalyptus",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Fireweed",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Manuka",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Caramel Malt 40L",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Honey, Orange Blossom",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Sage",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Tupelo",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Wilfflower",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Blended",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Honey, Blueberry",
+	"ppg": 35,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Briess DME Golden Light ",
+	"ppg": 43,
+	"color": 5,
+	"type": "Dry Extract"
+}, {
+	"name": "Rice Hulls",
+	"ppg": 0,
+	"color": 0,
+	"type": "Adjunct"
+}, {
+	"name": "Cara-Pils/Dextrine",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Flaked Wheat",
+	"ppg": 34,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "2-Row Caramel Malt 40L",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Flaked Corn (Maize)",
+	"ppg": 40,
+	"color": 1,
+	"type": "Adjunct"
+}, {
+	"name": "Northern Brewer Dark LME",
+	"ppg": 36,
+	"color": 24,
+	"type": "Liquid Extract"
+}, {
+	"name": "Northwestern Gold LME",
+	"ppg": 38,
+	"color": 9,
+	"type": "Liquid Extract"
+}, {
+	"name": "CaraWheat",
+	"ppg": 35,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Carafa II",
+	"ppg": 32,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "CBW Bavarian Wheat LME",
+	"ppg": 35,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Briess Bavarian Wheat DME",
+	"ppg": 43,
+	"color": 3,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess 2 Row Pale Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caramel Malt 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Flaked Oats",
+	"ppg": 33,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "Briess GOLD LME",
+	"ppg": 34,
+	"color": 5,
+	"type": "Liquid Extract"
+}, {
+	"name": "Briess Pilsen Light DME",
+	"ppg": 44,
+	"color": 2,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess CBW Golden Light",
+	"ppg": 34,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Brewer's Best Light Spray DME",
+	"ppg": 34,
+	"color": 5,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess Caramel 40L",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Briess Caramel 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Belgian Aromatic",
+	"ppg": 34,
+	"color": 23,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Gold Malt Syrup",
+	"ppg": 36,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "American Dextrin (Cara-Pils)",
+	"ppg": 33,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "2-Row Caramel Malt 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Brown Sugar",
+	"ppg": 45,
+	"color": 18,
+	"type": "Sugar"
+}, {
+	"name": "Northern Brewer Pilsen LME",
+	"ppg": 36,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Franco-Belges Pilsen Malt",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Simpsons Golden Naked Oat",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Light dry malt extract",
+	"ppg": 44,
+	"color": 4,
+	"type": "Dry Extract"
+}, {
+	"name": "Pale Malt (2 Row) UK",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, UK",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carastan",
+	"ppg": 35,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Caramel Malt 80L",
+	"ppg": 33,
+	"color": 80,
+	"type": "Grain"
+}, {
+	"name": "Rice Hulls",
+	"ppg": 0,
+	"color": 0,
+	"type": "Adjunct"
+}, {
+	"name": "Pilsner (Weyermann)",
+	"ppg": 38,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt, Maris Otter",
+	"ppg": 38,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Candi Sugar, Clear",
+	"ppg": 36,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Maris Otter Malt (Thomas Fawcett)",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "American Crystal 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Gold Malt Extract",
+	"ppg": 36,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Chocolate Wheat Malt",
+	"ppg": -1000,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Kiln Coffee Malt",
+	"ppg": 34,
+	"color": 86,
+	"type": "Grain"
+}, {
+	"name": "Crystal Malt 120°L",
+	"ppg": -1000,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "2-Row Caramel Malt 80L",
+	"ppg": 34,
+	"color": 80,
+	"type": "Grain"
+}, {
+	"name": "American Vienna",
+	"ppg": 33,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "American Crystal 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Briess 6 Row brewers malt",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Briess 2 Row Brewers Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Corn, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Briess Crystal 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Simpsons Golden Promise",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Muntons Plain Light DME",
+	"ppg": 44,
+	"color": 5,
+	"type": "Dry Extract"
+}, {
+	"name": "Weyermann CaraRed",
+	"ppg": 33,
+	"color": 18,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Melanoidin Malt",
+	"ppg": 34,
+	"color": 27,
+	"type": "Grain"
+}, {
+	"name": "Caramel Malt 90L",
+	"ppg": 33,
+	"color": 90,
+	"type": "Grain"
+}, {
+	"name": "Briess Extra Special Malt",
+	"ppg": 34,
+	"color": 130,
+	"type": "Grain"
+}, {
+	"name": "Simpsons Roasted Barley",
+	"ppg": 34,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Simpson's Peat Smoked Malt",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Munton's Pale Maris Otter",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Simpon's Light Crystal",
+	"ppg": 34,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Weyermann De-Husked Carafa II",
+	"ppg": 34,
+	"color": 430,
+	"type": "Grain"
+}, {
+	"name": "Briess Vienna Malt",
+	"ppg": 36,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Briess Crystal Malt 40L",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Orange Blossom Honey",
+	"ppg": 38,
+	"color": 3,
+	"type": "Adjunct"
+}, {
+	"name": "Caramel Malt 120L",
+	"ppg": 32,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Briess Munich Malt",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Briess Munich Liquid Extract",
+	"ppg": 35,
+	"color": 15,
+	"type": "Liquid Extract"
+}, {
+	"name": "Briess DME Gold",
+	"ppg": 34,
+	"color": 5,
+	"type": "Dry Extract"
+}, {
+	"name": "Oats, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "dark crystal 1 (thomas fawcett)",
+	"ppg": 34,
+	"color": 85,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Rye",
+	"ppg": 24,
+	"color": 250,
+	"type": "Grain"
+}, {
+	"name": "Briess Crystal 80L",
+	"ppg": 33,
+	"color": 80,
+	"type": "Grain"
+}, {
+	"name": "Briess White Wheat Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Pilsen Malt",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "2-Row Caramel Malt 120L",
+	"ppg": 32,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "weyermann CaraWheat",
+	"ppg": 34,
+	"color": 46,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Pilsner",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Durst Vienna",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Durst Munich Light",
+	"ppg": 34,
+	"color": 8,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Cara 20",
+	"ppg": 37,
+	"color": 21,
+	"type": "Grain"
+}, {
+	"name": "Apple Juice",
+	"ppg": 46,
+	"color": 5,
+	"type": "Adjunct"
+}, {
+	"name": "Briess Amber DME",
+	"ppg": 43,
+	"color": 5,
+	"type": "Dry Extract"
+}, {
+	"name": "Crystal 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Caramel Vienne 20L",
+	"ppg": 35,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Wheat, Torrified",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Briess Munich Liquid Extract",
+	"ppg": 35,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Munton Amber LME",
+	"ppg": 34,
+	"color": 7,
+	"type": "Liquid Extract"
+}, {
+	"name": "Briess Special Roast",
+	"ppg": 34,
+	"color": 50,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Belgian Biscuit Malt",
+	"ppg": 0,
+	"color": 18,
+	"type": "Grain"
+}, {
+	"name": "Briess Roasted Barley",
+	"ppg": 34,
+	"color": 300,
+	"type": "Grain"
+}, {
+	"name": "Caramel Munich 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Briess Chocolate 350 L",
+	"ppg": 34,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Debittered Black malt",
+	"ppg": 34,
+	"color": 550,
+	"type": "Grain"
+}, {
+	"name": "Briess Crystal 120L",
+	"ppg": 34,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "weyermann CaraWheat",
+	"ppg": 34,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Briess Rye Malt",
+	"ppg": 34,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Dehusked Carafa II",
+	"ppg": 28,
+	"color": 425,
+	"type": "Grain"
+}, {
+	"name": "Victory® Malt",
+	"ppg": 34,
+	"color": 28,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pilsner",
+	"ppg": 38,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pale Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Libby's Pumpkin Pie Mix 30oz",
+	"ppg": 9,
+	"color": 16,
+	"type": "Adjunct"
+}, {
+	"name": "Dingemans Caramunich",
+	"ppg": 34,
+	"color": 48,
+	"type": "Grain"
+}, {
+	"name": "American Wheat",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Special Roast Malt",
+	"ppg": 34,
+	"color": 50,
+	"type": "Grain"
+}, {
+	"name": "Belgian CaraMunich",
+	"ppg": 33,
+	"color": 75,
+	"type": "Grain"
+}, {
+	"name": "Extra Special Malt",
+	"ppg": 34,
+	"color": 130,
+	"type": "Grain"
+}, {
+	"name": "muntons marris otter",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Victory Malt",
+	"ppg": 34,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Rye Malt",
+	"ppg": 35,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, Ger",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Acid Malt",
+	"ppg": 27,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Pilsen Malt 2-Row (Briess)",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Carapils (Briess)",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Crystal Light - 45L (Crisp)",
+	"ppg": 35,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Corn Sugar (Dextrose)",
+	"ppg": 46,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Pale Malt (2 Row) US",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caramel/Crystal Malt - 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Crystal Extra Dark - 120L (Crisp)",
+	"ppg": 35,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Malt",
+	"ppg": 34,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Pale Chocolate Malt (Crisp)",
+	"ppg": 34,
+	"color": 225,
+	"type": "Grain"
+}, {
+	"name": "LME Pilsen Light (Briess)",
+	"ppg": 38,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "LME Sparkling Amber Liquid (Briess)",
+	"ppg": 38,
+	"color": 10,
+	"type": "Liquid Extract"
+}, {
+	"name": "DME Wheat Bavarian (Briess)",
+	"ppg": 45,
+	"color": 8,
+	"type": "Dry Extract"
+}, {
+	"name": "LME Wheat Bavarian (Briess)",
+	"ppg": 38,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Crystal Dark - 77L (Crisp)",
+	"ppg": 35,
+	"color": 75,
+	"type": "Grain"
+}, {
+	"name": "Black (Crisp)",
+	"ppg": 34,
+	"color": 680,
+	"type": "Grain"
+}, {
+	"name": "Light Dry Extract",
+	"ppg": 44,
+	"color": 8,
+	"type": "Dry Extract"
+}, {
+	"name": "Caramel Malt - 10L (Briess)",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "LME Munich (Briess)",
+	"ppg": 34,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "2-Row Chocolate Malt",
+	"ppg": 34,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Pilsner (2 Row) Bel",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Sugar, Table (Sucrose)",
+	"ppg": 46,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Chocolate Rye Malt",
+	"ppg": 31,
+	"color": 250,
+	"type": "Grain"
+}, {
+	"name": "Pale Liquid Extract",
+	"ppg": 36,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Brown Sugar, Dark",
+	"ppg": 46,
+	"color": 50,
+	"type": "Sugar"
+}, {
+	"name": "Wheat Malt, Pale",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carafa Special III",
+	"ppg": 30,
+	"color": 525,
+	"type": "Grain"
+}, {
+	"name": "Raw Wheat",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Crystal 135L",
+	"ppg": 33,
+	"color": 135,
+	"type": "Grain"
+}, {
+	"name": "Dark Chocolate Malt",
+	"ppg": 33,
+	"color": 420,
+	"type": "Grain"
+}, {
+	"name": "Torrified Wheat (Briess)",
+	"ppg": 36,
+	"color": 1,
+	"type": "Adjunct"
+}, {
+	"name": "Flaked Barley",
+	"ppg": 30,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "Roasted Barley - 675 L",
+	"ppg": 34,
+	"color": 650,
+	"type": "Grain"
+}, {
+	"name": "Caramunich I",
+	"ppg": 30,
+	"color": 33,
+	"type": "Grain"
+}, {
+	"name": "Marris Otter (Crisp)",
+	"ppg": 38,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley - 550L",
+	"ppg": 34,
+	"color": 550,
+	"type": "Grain"
+}, {
+	"name": "Pale Ale Malt",
+	"ppg": 36,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Black Malt",
+	"ppg": 32,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Malt (US)",
+	"ppg": 28,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Crystal 120L",
+	"ppg": 33,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Caramunich II",
+	"ppg": 34,
+	"color": 46,
+	"type": "Grain"
+}, {
+	"name": "Best Malz Pilsner",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Candi Sugar Syrup, Dark",
+	"ppg": 30000,
+	"color": 80,
+	"type": "Sugar"
+}, {
+	"name": "2-Row Black Malt",
+	"ppg": 33,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Weyermann CaraAroma",
+	"ppg": 34,
+	"color": 130,
+	"type": "Grain"
+}, {
+	"name": "Australian Ale Malt",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Flaked Rye",
+	"ppg": 36,
+	"color": 3,
+	"type": "Adjunct"
+}, {
+	"name": "Black (Patent) Malt",
+	"ppg": 25,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Australian Pilsner",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caramunich II",
+	"ppg": 30,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Black Malted Barley Flour",
+	"ppg": 32,
+	"color": 500,
+	"type": "Adjunct"
+}, {
+	"name": "Pale Malt, 2 Row, UK",
+	"ppg": 36,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Blackprinz® Malt",
+	"ppg": 0,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Oats, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Brown Sugar, Dark",
+	"ppg": 46,
+	"color": 50,
+	"type": "Sugar"
+}, {
+	"name": "Corn, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Corn Sugar (Dextrose)",
+	"ppg": 46,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Sugar, Table (Sucrose)",
+	"ppg": 46,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Midnight Wheat Malt",
+	"ppg": 0,
+	"color": 550,
+	"type": "Grain"
+}, {
+	"name": "Amber malt extract",
+	"ppg": 45,
+	"color": 9,
+	"type": "Liquid Extract"
+}, {
+	"name": "CaraPils",
+	"ppg": -1000,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "German wheat",
+	"ppg": -1000,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Pale Ale",
+	"ppg": -1000,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Wheat, Flaked",
+	"ppg": 34,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "2 Row Base",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Munich I",
+	"ppg": 38,
+	"color": 7,
+	"type": "Grain"
+}, {
+	"name": "Maris Otter Malt",
+	"ppg": 38,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Special Roast",
+	"ppg": 33,
+	"color": 50,
+	"type": "Grain"
+}, {
+	"name": "Crystal 30",
+	"ppg": 35,
+	"color": 30,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley",
+	"ppg": 33,
+	"color": 300,
+	"type": "Grain"
+}, {
+	"name": "Victory",
+	"ppg": 34,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Chocolate, Pale",
+	"ppg": 30,
+	"color": 200,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caraaroma",
+	"ppg": 35,
+	"color": 130,
+	"type": "Grain"
+}, {
+	"name": "Carapils (Dextrine)",
+	"ppg": 33,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Melanoidin",
+	"ppg": 37,
+	"color": 30,
+	"type": "Grain"
+}, {
+	"name": "Carafa III malt",
+	"ppg": 36,
+	"color": 525,
+	"type": "Grain"
+}, {
+	"name": "Briess - 2 Row Brewers Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Crystal 60",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Briess - Chocolate Malt",
+	"ppg": 34,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Black Barley",
+	"ppg": 32,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Black Patent",
+	"ppg": 25,
+	"color": 525,
+	"type": "Grain"
+}, {
+	"name": "Liquid Malt Extract - Light",
+	"ppg": 37,
+	"color": 5,
+	"type": "Liquid Extract"
+}, {
+	"name": "Crystal 40",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Chocolate",
+	"ppg": 29,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "American Crystal 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) US",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Rye Malt",
+	"ppg": 31,
+	"color": 250,
+	"type": "Grain"
+}, {
+	"name": "Carafa II",
+	"ppg": 32,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Cara-Pils/Dextrine",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Brown Rice Syrup 45HM",
+	"ppg": 36,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Pale Liquid Extract",
+	"ppg": 36,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Melanoiden Malt",
+	"ppg": 37,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Brown Sugar, Light",
+	"ppg": 46,
+	"color": 8,
+	"type": "Sugar"
+}, {
+	"name": "Cara-Pils/Dextrine",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Briess Pilsen Light DME",
+	"ppg": 44,
+	"color": 2,
+	"type": "Dry Extract"
+}, {
+	"name": "Northern Brewer Pilsen LME",
+	"ppg": 36,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Franco-Belges Pilsen Malt",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "White Sorghum Syrup 45HM",
+	"ppg": 37,
+	"color": 1,
+	"type": "Liquid Extract"
+}, {
+	"name": "Simpsons Golden Naked Oat",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) UK",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, UK",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carastan",
+	"ppg": 35,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Flaked Corn (Maize)",
+	"ppg": 40,
+	"color": 1,
+	"type": "Adjunct"
+}, {
+	"name": "Cara-Pils/Dextrine",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Gold Malt Syrup",
+	"ppg": 36,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Northern Brewer Pilsen LME",
+	"ppg": 36,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Franco-Belges Pilsen Malt",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pilsen Light LME",
+	"ppg": 37,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Simpsons Golden Naked Oat",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "American Crystal 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Briess 2 Row Pale Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Gold Malt Extract",
+	"ppg": 36,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Light dry malt extract",
+	"ppg": 44,
+	"color": 4,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess 2 Row Pale Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, White",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pilsen Light DME",
+	"ppg": 44,
+	"color": 2,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess GOLD LME",
+	"ppg": 34,
+	"color": 5,
+	"type": "Liquid Extract"
+}, {
+	"name": "Carafa II",
+	"ppg": 32,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Briess Bavarian Wheat DME",
+	"ppg": 43,
+	"color": 3,
+	"type": "Dry Extract"
+}, {
+	"name": "Briess Munich Malt",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Golden Light LME",
+	"ppg": 37,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "Briess Vienna Malt",
+	"ppg": 36,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Caramunich",
+	"ppg": 34,
+	"color": 48,
+	"type": "Grain"
+}, {
+	"name": "Victory Malt",
+	"ppg": 34,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, Ger",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) US",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carafa II",
+	"ppg": 32,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Cara-Pils/Dextrine",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caramel/Crystal Malt - 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Golden Light DME",
+	"ppg": 43,
+	"color": 4,
+	"type": "Dry Extract"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Pale Liquid Extract",
+	"ppg": 36,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Pilsner (2 Row) Bel",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Oats, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Sugar, Table (Sucrose)",
+	"ppg": 46,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Light Dry Extract",
+	"ppg": 44,
+	"color": 8,
+	"type": "Dry Extract"
+}, {
+	"name": "Crystal 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Corn Sugar (Dextrose)",
+	"ppg": 46,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Bavarian Wheat LME",
+	"ppg": 37,
+	"color": 3,
+	"type": "Liquid Extract"
+}, {
+	"name": "Maris Otter Malt (Thomas Fawcett)",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Oats, Flaked",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Bavarian Wheat DME",
+	"ppg": 43,
+	"color": 3,
+	"type": "Dry Extract"
+}, {
+	"name": "Munich LME",
+	"ppg": 37,
+	"color": 8,
+	"type": "Liquid Extract"
+}, {
+	"name": "Sugar, Table (Sucrose)",
+	"ppg": 46,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Flaked Wheat",
+	"ppg": 34,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "Sparkling Amber LME",
+	"ppg": 37,
+	"color": 10,
+	"type": "Liquid Extract"
+}, {
+	"name": "Victory Malt",
+	"ppg": 34,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "White Wheat Malt",
+	"ppg": 39,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Sparkling Amber DME",
+	"ppg": 44,
+	"color": 10,
+	"type": "Dry Extract"
+}, {
+	"name": "2-Row Brewers Malt 1000",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Wheat Malt 1000",
+	"ppg": 38,
+	"color": 412,
+	"type": "Grain"
+}, {
+	"name": "Kiln Coffee Malt 1000",
+	"ppg": 36,
+	"color": 86,
+	"type": "Grain"
+}, {
+	"name": "Crystal Malt 120°L 1000",
+	"ppg": 33,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Maris Otter Pale",
+	"ppg": 38,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "German Pilsen Malt (2-Row)",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "German Light Munich Malt",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "Crystal Malt 60L",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "American Dark Chocolate Malt",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "German Carafa III De-Husked Malt",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "Traditional Dark LME",
+	"ppg": 37,
+	"color": 30,
+	"type": "Liquid Extract"
+}, {
+	"name": "German Wheat Malt Light",
+	"ppg": 0,
+	"color": 0,
+	"type": "Grain"
+}, {
+	"name": "Rahr Two-Row",
+	"ppg": 34,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Briess Caramel 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Gold Malt Syrup",
+	"ppg": 36,
+	"color": 4,
+	"type": "Liquid Extract"
+}, {
+	"name": "American Dextrin (Cara-Pils)",
+	"ppg": 33,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Brown Sugar",
+	"ppg": 45,
+	"color": 18,
+	"type": "Sugar"
+}, {
+	"name": "Briess Caramel 10L",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "US 2-Row Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "US Caramel 60L Malt",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "US Carapils Malt",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Traditional Dark DME",
+	"ppg": 44,
+	"color": 30,
+	"type": "Dry Extract"
+}, {
+	"name": "US Rye Malt",
+	"ppg": 35,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Australian Ale Malt",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Sugar, Table (Sucrose)",
+	"ppg": 46,
+	"color": 1,
+	"type": "Sugar"
+}, {
+	"name": "Victory Malt",
+	"ppg": 34,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Caramunich II",
+	"ppg": 34,
+	"color": 46,
+	"type": "Grain"
+}, {
+	"name": "Weyermann CaraAroma",
+	"ppg": 34,
+	"color": 130,
+	"type": "Grain"
+}, {
+	"name": "Flaked Wheat",
+	"ppg": 34,
+	"color": 2,
+	"type": "Adjunct"
+}, {
+	"name": "Crystal 60L",
+	"ppg": 34,
+	"color": 60,
+	"type": "Grain"
+}, {
+	"name": "Amber Liquid Extract",
+	"ppg": 36,
+	"color": 0
+}, {
+	"name": "Special B Malt",
+	"ppg": 30,
+	"color": 180,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, Red",
+	"ppg": 38,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Maris Otter Pale Ale Malt",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Dark Liquid Extract",
+	"ppg": 36,
+	"color": 0
+}, {
+	"name": "Milk Sugar (Lactose)",
+	"ppg": 35,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Pilsner (2 Row) Bel",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) UK",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, UK",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carastan",
+	"ppg": 35,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) UK",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, UK",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carastan",
+	"ppg": 35,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Belgian Pilsner",
+	"ppg": 34,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Halcyon Pale Ale Malt",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "UK Pale Ale Malt (Maris Otter)",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Belgian Biscuit Malt",
+	"ppg": 32,
+	"color": 22,
+	"type": "Grain"
+}, {
+	"name": "US Flaked Barley",
+	"ppg": 33,
+	"color": 1,
+	"type": "Adjunct"
+}, {
+	"name": "Rice Hulls",
+	"ppg": 0,
+	"color": 0,
+	"type": "Adjunct"
+}, {
+	"name": "weyermann CaraWheat",
+	"ppg": 34,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Briess 2 Row Pale Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Briess White Wheat Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) UK",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, UK",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pipkin Pale Ale Malt",
+	"ppg": 36,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Carastan",
+	"ppg": 35,
+	"color": 35,
+	"type": "Grain"
+}, {
+	"name": "Cane (Beet) Sugar",
+	"ppg": 46,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Caramunich Malt",
+	"ppg": 33,
+	"color": 56,
+	"type": "Grain"
+}, {
+	"name": "Munich Malt - 20L",
+	"ppg": 34,
+	"color": 20,
+	"type": "Grain"
+}, {
+	"name": "Barley (Flaked)",
+	"ppg": 32,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Munich (Light)",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Oats (Flaked)",
+	"ppg": 32,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Barley (Roasted)",
+	"ppg": 28,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Maris Otter",
+	"ppg": 38,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Vienna",
+	"ppg": 35,
+	"color": 4,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Barley, Flaked",
+	"ppg": 32,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Northern Brewer Pilsen LME",
+	"ppg": 36,
+	"color": 2,
+	"type": "Liquid Extract"
+}, {
+	"name": "Franco-Belges Pilsen Malt",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Simpsons Golden Naked Oat",
+	"ppg": 34,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Munich II",
+	"ppg": 38,
+	"color": 8,
+	"type": "Grain"
+}, {
+	"name": "Crystal 120",
+	"ppg": 33,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Crystal 40",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Munich II",
+	"ppg": 38,
+	"color": 8,
+	"type": "Grain"
+}, {
+	"name": "Honey Malt",
+	"ppg": 37,
+	"color": 25,
+	"type": "Grain"
+}, {
+	"name": "Oat Malt",
+	"ppg": 31,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Crystal 120",
+	"ppg": 33,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Chocolate",
+	"ppg": 29,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "Caramel/Crystal Malt - 40L",
+	"ppg": 34,
+	"color": 40,
+	"type": "Grain"
+}, {
+	"name": "Caramel/Crystal Malt -120L",
+	"ppg": 33,
+	"color": 120,
+	"type": "Grain"
+}, {
+	"name": "Black Barley (Stout)",
+	"ppg": 25,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (2 Row) Bel",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Roasted barley",
+	"ppg": 28,
+	"color": 450,
+	"type": "Grain"
+}, {
+	"name": "American chocolate malt",
+	"ppg": 29,
+	"color": 350,
+	"type": "Grain"
+}, {
+	"name": "American black patent",
+	"ppg": 28,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "American two-row",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Lager Malt",
+	"ppg": 36,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Pale Ale Malt 2-Row (Briess)",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Caravienne Malt",
+	"ppg": 34,
+	"color": 22,
+	"type": "Grain"
+}, {
+	"name": "Munich 10L (Briess)",
+	"ppg": 35,
+	"color": 10,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley (Briess)",
+	"ppg": 33,
+	"color": 300,
+	"type": "Grain"
+}, {
+	"name": "Black Malt - 2-Row (Briess)",
+	"ppg": 33,
+	"color": 500,
+	"type": "Grain"
+}, {
+	"name": "Carmel/Crystal Malt - 75L",
+	"ppg": 35,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Carmel/Crystal Malt - 150L",
+	"ppg": 35,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Candi Syrup, Clear",
+	"ppg": 32,
+	"color": 0,
+	"type": "Sugar"
+}, {
+	"name": "Pale Malt (6 Row) US",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pale Malt (6 Row) US",
+	"ppg": 35,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Caramalt",
+	"ppg": 32,
+	"color": 11,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt, Bel",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Biscuit Malt",
+	"ppg": 36,
+	"color": 23,
+	"type": "Grain"
+}, {
+	"name": "Peat Smoked Malt",
+	"ppg": 34,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pilsner",
+	"ppg": 38,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pale Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Libby's Pumpkin Pie Mix 30oz",
+	"ppg": 9,
+	"color": 16,
+	"type": "Adjunct"
+}, {
+	"name": "Dingemans Caramunich",
+	"ppg": 34,
+	"color": 48,
+	"type": "Grain"
+}, {
+	"name": "Durst Vienna",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pilsner",
+	"ppg": 38,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Pale Crystal Malt",
+	"ppg": 32,
+	"color": 22,
+	"type": "Grain"
+}, {
+	"name": "Dingemans Pale Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Libby's Pumpkin Pie Mix 30oz",
+	"ppg": 9,
+	"color": 16,
+	"type": "Adjunct"
+}, {
+	"name": "Dingemans Caramunich",
+	"ppg": 34,
+	"color": 48,
+	"type": "Grain"
+}, {
+	"name": "Durst Vienna",
+	"ppg": 34,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Weyermann Acidulated Malt",
+	"ppg": 33,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Amber Malt",
+	"ppg": 32,
+	"color": 37,
+	"type": "Grain"
+}, {
+	"name": "Crystal Malt",
+	"ppg": 32,
+	"color": 49,
+	"type": "Grain"
+}, {
+	"name": "Caracrystal® Wheat Malt",
+	"ppg": 36,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "Brown Malt",
+	"ppg": 32,
+	"color": 56,
+	"type": "Grain"
+}, {
+	"name": "Dark Crystal Malt",
+	"ppg": 32,
+	"color": 112,
+	"type": "Grain"
+}, {
+	"name": "Pale Chocolate Malt",
+	"ppg": 32,
+	"color": 197,
+	"type": "Grain"
+}, {
+	"name": "Chocolate Malt",
+	"ppg": 32,
+	"color": 375,
+	"type": "Grain"
+}, {
+	"name": "Roasted Barley",
+	"ppg": 31,
+	"color": 450,
+	"type": "Grain"
+}, {
+	"name": "Black Malt",
+	"ppg": 32,
+	"color": 487,
+	"type": "Grain"
+}, {
+	"name": "Extra Pale Premium Pilsner Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Pilsner Malt",
+	"ppg": 37,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Pale Ale Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Vienna Malt",
+	"ppg": 37,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "Carabrown® Malt",
+	"ppg": 36,
+	"color": 55,
+	"type": "Grain"
+}, {
+	"name": "Munich Malt I",
+	"ppg": 37,
+	"color": 5,
+	"type": "Grain"
+}, {
+	"name": "Munich Malt II",
+	"ppg": 37,
+	"color": 8,
+	"type": "Grain"
+}, {
+	"name": "Smoked Malt",
+	"ppg": 37,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Acidulated Malt",
+	"ppg": 27,
+	"color": 2,
+	"type": "Grain"
+}, {
+	"name": "Melanoidin Malt",
+	"ppg": 37,
+	"color": 26,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt (Pale)",
+	"ppg": 39,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "Wheat Malt (Dark)",
+	"ppg": 39,
+	"color": 6,
+	"type": "Grain"
+}, {
+	"name": "CARAWHEAT® Caramel Wheat Malt",
+	"ppg": 34,
+	"color": 43,
+	"type": "Grain"
+}, {
+	"name": "CARAPILS®",
+	"ppg": 33,
+	"color": 1,
+	"type": "Grain"
+}, {
+	"name": "CARAHELL®",
+	"ppg": 35,
+	"color": 9,
+	"type": "Grain"
+}, {
+	"name": "Vienna Malt",
+	"ppg": 35,
+	"color": 3,
+	"type": "Grain"
+}, {
+	"name": "CARARED®",
+	"ppg": 33,
+	"color": 17,
+	"type": "Grain"
+}, {
+	"name": "CARAAMBER®",
+	"ppg": 33,
+	"color": 26,
+	"type": "Grain"
+}, {
+	"name": "CARAMUNICH® I",
+	"ppg": 35,
+	"color": 34,
+	"type": "Grain"
+}, {
+	"name": "CARAMUNICH® II",
+	"ppg": 35,
+	"color": 45,
+	"type": "Grain"
+}, {
+	"name": "CARAMUNICH® III",
+	"ppg": 35,
+	"color": 56,
+	"type": "Grain"
+}, {
+	"name": "CARAAROMA®",
+	"ppg": 34,
+	"color": 150,
+	"type": "Grain"
+}, {
+	"name": "CARABELGE®",
+	"ppg": 34,
+	"color": 13,
+	"type": "Grain"
+}, {
+	"name": "CARABOHEMIAN®",
+	"ppg": 34,
+	"color": 75,
+	"type": "Grain"
+}, {
+	"name": "CARAWHEAT®",
+	"ppg": 35,
+	"color": 43,
+	"type": "Grain"
+}, {
+	"name": "CARARYE®",
+	"ppg": 34,
+	"color": 66,
+	"type": "Grain"
+}]

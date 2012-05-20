@@ -1,0 +1,1049 @@
+[{
+	"name": "California Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "London Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 71,
+	"laboratory": "White Labs"
+}, {
+	"name": "Pediococcus",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 0,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Saflager S-23",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Saflager W-34/70",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Safale S-04",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Safale US-05",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Safbrew T-58",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Safbrew S-33",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "Safbrew WB-06",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Fermentis"
+}, {
+	"name": "White Labs German Ale / Kolsh (WLP029)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast Belgian Wheat (3942)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Essex Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "White Labs California Ale (WLP001)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76
+}, {
+	"name": "White Labs Belgian Ale (WLP550)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 82
+}, {
+	"name": "Wyeast Belgian Ardennes (3522)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Pilsner Urqell",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Hefewizen Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "White Labs"
+}, {
+	"name": "White Labs Cream Ale Blend (WLP080)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 78
+}, {
+	"name": "Wyeast Scottish Ale (1728)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 71
+}, {
+	"name": "Wyeast London Ale III (1318)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Burton Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast American Ale II (1272)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Wyeast Northwest Ale (1332)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69
+}, {
+	"name": "Wyeast American Wheat (1010)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76
+}, {
+	"name": "Wyeast Danish Lager (2042)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast Irish Ale (1084)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Wyeast American Ale (1056)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Edinburgh Scottish Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast Bavarian Lager (2206)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "German Ale/Kolsch",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Safale American ",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5
+}, {
+	"name": "Nottingham",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Edinburgh Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Hefeweizen Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "White Labs"
+}, {
+	"name": "Nottingham Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Abbey Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "German Ale/Kölsch Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Safale S-04 Dry Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Wyeast Roselare Blend (3763)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 82
+}, {
+	"name": "Dusseldorf Alt Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 68.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast 3725-PC Bier de Garde Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 79
+}, {
+	"name": "Saflager S-23 Dry Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Wyeast Belgian Abby Ale (1214)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast London ESB Ale (1968)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69
+}, {
+	"name": "Wyeast Brettanomyces claussenii",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "Wyeast Brettanomyces bruxellensis (5112)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "Wyeast Brettanomyces lambicus (5526)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "Yorkshire Square Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast West Yorkshire (1469)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70
+}, {
+	"name": "Attenuation 80 percent",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "Manchester Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72,
+	"laboratory": "White Labs"
+}, {
+	"name": "Dry American Ale yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 0
+}, {
+	"name": "Wyeast 2565 - Kölsch",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Safeale S-04",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast 2124 - Bohemian Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Danstar Windsor",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast 3725-PC Bier de Garde Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 79
+}, {
+	"name": "Safale American ",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Nottingham Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast Belgian Ardennes (3522)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Wyeast Belgian Ardennes (3522)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Safale American ",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5
+}, {
+	"name": "Safale American ",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5
+}, {
+	"name": "Andechs Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72
+}, {
+	"name": "Belgian Wit Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "White Labs"
+}, {
+	"name": "White Labs California Ale (WLP001)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76
+}, {
+	"name": "Wyeast 1056-American Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "Wyeast Roselare Blend (3763)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 82
+}, {
+	"name": "Munton's Dry Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Pacific Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 67.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast 1318-London Ale III",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "Wyeast American Wheat (1010)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76
+}, {
+	"name": "California Ale V",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "California Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "San Francisco Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 67.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Dry",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 0
+}, {
+	"name": "Essex Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "English Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 66.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "California V Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "San Diego Super Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 79.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Wyeast Belgian Ardennes (3522)",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "WLP022 - Essex Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "WLP022 - Essex Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80
+}, {
+	"name": "German Weiss",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73
+}, {
+	"name": "German Bock Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "White Labs"
+}, {
+	"name": "London Ale yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 0
+}, {
+	"name": "English Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 66.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Dry English Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Trappist Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "American Ale Yeast Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "White Labs"
+}, {
+	"name": "Rogue Pacman Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75
+}, {
+	"name": "American Hefeweizen Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74
+}, {
+	"name": "Cream Ale Yeast Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Hefeweizen Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "White Labs"
+}, {
+	"name": "American Hefeweizen Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Bavarian Weizen Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Hefeweizen IV Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Wit Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Wit II Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Trappist Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Irish Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 71.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Bastogne Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77,
+	"laboratory": "White Labs"
+}, {
+	"name": "Antwerp Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Abbey Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Abbey IV Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 78,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Strong Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 81.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 81.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Saison I Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Saison II Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 81.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Style Saison Ale Yeast Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Golden Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "British Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Style Ale Yeast Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77,
+	"laboratory": "White Labs"
+}, {
+	"name": "Pilsner Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Czech Budejovice Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "San Francisco Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 67.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Oktoberfest/Märzen Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69,
+	"laboratory": "White Labs"
+}, {
+	"name": "German Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "German Bock Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "White Labs"
+}, {
+	"name": "Southern German Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72,
+	"laboratory": "White Labs"
+}, {
+	"name": "American Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Zurich Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Bedford British",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "White Labs"
+}, {
+	"name": "Old Bavarian Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Mexican Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "White Labs"
+}, {
+	"name": "German Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "American Wheat",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "Wyeast"
+}, {
+	"name": "London Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "American Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Irish Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "British Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Whitbread Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Ringwood Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 70,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Dry English Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "American Ale II",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Thames Valley Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 77,
+	"laboratory": "Wyeast"
+}, {
+	"name": "London Ale III",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Northwest Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69,
+	"laboratory": "Wyeast"
+}, {
+	"name": "British Ale II",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74.5,
+	"laboratory": "Wyeast"
+}, {
+	"name": "European Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Denny's Favorite 50",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Scottish Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 71,
+	"laboratory": "Wyeast"
+}, {
+	"name": "London ESB Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Kölsh",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "East Coast Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "White Labs"
+}, {
+	"name": "Belgian Abbey",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Strong Ale",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Abbey II",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Bavarian Wheat Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Weihenstephan Weizen",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Lambic Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "German Wheat",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Forbidden Fruit",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Ardennes",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Bavarian Wheat",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Australian Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "French Saison",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Saison Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 78,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Roeselare Ale Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Trappist High Gravity",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 76,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Wheat",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Belgian Witbier",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Budvar Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Urquell Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 74,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Pilsen Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 73,
+	"laboratory": "Wyeast"
+}, {
+	"name": "American Lager Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "European Ale Yeast",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 67.5,
+	"laboratory": "White Labs"
+}, {
+	"name": "Danish Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "California Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 69,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Bohemian Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Bavarian Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Czech Pils",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Munich Lager",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 72,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Octoberfest Lager Blend",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 75,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Brettanomyces Bruxellensis",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Lactobacillus",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 0,
+	"laboratory": "Wyeast"
+}, {
+	"name": "Brettanomyces Lambicus",
+	"attenuationMin": 74,
+	"attenuationMax": 76,
+	"attenuation": 80,
+	"laboratory": "Wyeast"
+}]
