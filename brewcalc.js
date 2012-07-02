@@ -69,6 +69,8 @@ BREWCALC.units = (function($) {
 	 * Color
 	 */
 
+
+
 	/*
 	 * SRM table pull from here: http://www.barleydogbrewery.com/xml/colors.xml
 	 */
@@ -274,6 +276,8 @@ BREWCALC.units = (function($) {
 		g: 4,
 		b: 3
 	};
+
+	window.SRM = srm;
 
 	/* hex routine from here: http://methodbrewery.com/srm.php */
 	//TODO: there should be a better way to do hex conversion
