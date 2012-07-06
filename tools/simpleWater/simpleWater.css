@@ -1,0 +1,38 @@
+.simple-water-calculator {
+	width:500px;
+	padding:1em;
+	border:2px solid #999;
+}
+
+.simple-water-calculator .sliders {
+	width:300px;
+}
+
+.simple-water-calculator .slider {
+	margin:0.4em 0;
+}
+
+.slider-info {
+	border:1px solid #ccc;
+	padding:0.25em;
+	height:20px;
+}
+
+.srm-slider-info .srm-value {
+	width:200px;
+	float:left;
+}
+
+.srm-slider-info .srm-color {
+	width:60px;
+	height:20px;
+	float:right;
+}
+
+.ratio-slider-info .value {
+	float:left;
+}
+
+.ratio-slider-info .description {
+	float:right;
+}

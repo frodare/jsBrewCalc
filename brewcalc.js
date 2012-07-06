@@ -181,7 +181,7 @@ BREWCALC.units = (function($) {
 			throw new Error('HTML_RGB to SRM not yet supported');
 		},
 		to: function(val) {
-			var rgb = u.SRM.RGB.to(val);
+			var rgb = u.RGB.to(val);
 			return '#' + hex(rgb.r) + hex(rgb.g) + hex(rgb.b);
 		}
 	};
@@ -194,7 +194,6 @@ BREWCALC.units = (function($) {
 		if(fromBase !== toBase){
 			throw new Error('Invalid unit convertion, base unit missmatch [' + fromBase + '] != [' + toBase + ']');
 		}
-		console.log('unit');
 		return u[toUnit].to(u[fromUnit].from(val));
 	};
 
