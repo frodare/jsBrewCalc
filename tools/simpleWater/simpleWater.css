@@ -19,7 +19,11 @@
 }
 
 .srm-slider-info .srm-value {
-	width:200px;
+	float:left;
+	padding-right:1em;
+}
+.srm-slider-info .ra-value {
+	width:150px;
 	float:left;
 }
 

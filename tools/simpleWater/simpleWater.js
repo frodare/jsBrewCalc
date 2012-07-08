@@ -37,28 +37,32 @@
 
 	w.ions = {
 		Ca: {
-			max: 200
+			max: 250
 		},
 		Cl: {
 			max: 250
 		},
 		SO: {
-			max: 200
+			max: 250
 		}
 	};
 
 	/* inputs in ppm */
-	w.toRA = function (HCO) {
+	w.toRA = function (water) {
 		if(!water){
 			water = w.profile;
 		}
-		return (water.HCO * 0.819672131) - (0.714 * water.Ca) - (0.585 * water.Mg);
+		return (water.HCO * 0.819672131) - (water.Ca / 3.5) - (water.Mg / 7);
 	};
 	/*
 	w.fromRA = function (RA, water) {
 		return 3.5 * ((water.HCO * 0.819672131) - (0.585 * water.Mg) - RA);
 	};
 	*/
+
+	w.raToPh = function (ra) {
+		return 5.8 + 0.00168 * ra;
+	};
 
 	w.computeRaFromColor = function (srm) {
 		var low, high;
@@ -75,7 +79,7 @@
 			water = w.profile;
 		}
 		
-		var ca2 = 3.5 * ((water.HCO * 0.819672131) - (0.714 * water.Ca) - (0.585 * water.Mg) - RA);
+		var ca2 = (3.5) * ((water.HCO * 0.819672131) - (water.Ca / 3.5) - (water.Mg / 7) - RA);
 		return Math.min(w.ions.Ca.max, ca2);
 		//return ca2;
 	};
@@ -110,8 +114,6 @@
 			g2 = 0;
 		}
 
-
-
 		return {
 			CaSO: g1,
 			CaCl: g2
@@ -119,7 +121,28 @@
 
 	};
 
+	/* returns new profile */
+	w.adjustWaterWithSalts = function (salts, water) {
+		if(!water){
+			water = w.profile;
+		}
+		var s, effect, saltDef, newWater = $.extend({}, water);
+		for(s in salts){
+			if(salts.hasOwnProperty(s)){
+				saltDef = w.salts[s];
+				if(!saltDef){
+					continue;
+				}
+				for(effect in saltDef.effect){
+					if(saltDef.effect.hasOwnProperty(effect)){
+						newWater[effect] += saltDef.effect[effect] * salts[s];
+					}
+				}
+			}
+		}
 
+		return newWater;
+	};
 
 
 }(jQuery, BREWCALC));
@@ -154,12 +177,13 @@
 
 	var calc, srmSlider, maltBalanceSlider;
 
-	var srmColor, srmValue;
+	var srmColor, srmValue, raValue;
 
 	calc = $('.simple-water-calculator');
 
 	srmColor = calc.find('.srm-slider-info .srm-color');
 	srmValue = calc.find('.srm-slider-info .srm-value');
+	raValue = calc.find('.srm-slider-info .ra-value');
 
 	srmSlider = calc.find('.srm-slider').slider({
 		value: 10,
@@ -173,6 +197,7 @@
 	function updateSrm() {
 		var v = srmSlider.slider( "option", "value" );
 		srmValue.html('SRM: ' + parseInt(v, 10));
+		raValue.html(' RA: ' + parseInt(B.water.computeRaFromColor(v), 10));
 		srmColor.css({
 			background: B.units.convert('SRM', 'HTML_RGB', v)
 		});
@@ -229,6 +254,7 @@
 
 
 	var result = calc.find('.result');
+	var volume = calc.find('input[name="volume"]');
 
 	compute = function () {
 		var r = toRatio(maltBalanceSlider.slider( "option", "value" ));
@@ -241,11 +267,27 @@
 		var ra = w.computeRaFromColor(srm);
 		var ca = w.caRequired(ra);
 
-		console.log('r: ' + r + ' srm: ' + srm + ' Ca: ' + ca + ' RA: ' + ra);
-		
 		var salts = w.caSaltsRequired(ca, r);
+
+		var newWater = w.adjustWaterWithSalts(salts);
+		var newRA = w.toRA(newWater);
 		
-		result.html('<div><b>CaSO</b>:' + salts.CaSO + '</div><div><b>CaCl</b>:' + salts.CaCl + '</div>');
+		result.html('<div><b>CaSO</b>: ' + (salts.CaSO * volume.val()) + 'g</div>');
+		result.append('<div><b>CaCl</b>: ' + (salts.CaCl * volume.val()) + 'g</div>');
+		
+		result.append('<BR><BR><div><b>RA</b>: ' + newRA + '</div>');
+		result.append('<div><b>Chloride:Sulfate</b>: ' + r + '</div>');
+		//result.append('<div><b>Est. Mash PH</b>: ' + w.raToPh(ra) + '</div>');
+
+		if(newWater.Ca >= w.ions.Ca.max || (salts.CaSO + salts.CaCl) <= 0){
+			result.css({
+				color: 'red'
+			});
+		}else{
+			result.css({
+				color: 'black'
+			});
+		}
 
 	};
 
