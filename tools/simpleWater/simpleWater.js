@@ -4,6 +4,12 @@
 (function($, B) {
 	'use strict';
 
+	B.util = {};
+	B.util.round = function (number, places) {
+		var p = Math.pow(10, places);
+		return Math.round(p * number) / p;
+	};
+
 	var w = B.water = {};
 
 	w.profile = {
@@ -24,14 +30,17 @@
 			effect: {
 				Ca: 61.5,
 				SO: 147.4
-			}
+			},
+			/* grams per level teaspoon */
+			tsp : 4
 		},
 		CaCl: {
 			name: 'Calcium Chloride',
 			effect: {
 				Ca: 72,
 				Cl: 127
-			}
+			},
+			tsp: 3.4
 		}
 	};
 
@@ -263,17 +272,26 @@
 		
 		var w = B.water;
 
-		
-		var ra = w.computeRaFromColor(srm);
+		/* why do I have to offset by 13?? */
+		var ra = w.computeRaFromColor(srm) - 13;
 		var ca = w.caRequired(ra);
 
 		var salts = w.caSaltsRequired(ca, r);
 
 		var newWater = w.adjustWaterWithSalts(salts);
-		var newRA = w.toRA(newWater);
+		var newRA = parseInt(w.toRA(newWater), 10);
 		
-		result.html('<div><b>CaSO</b>: ' + (salts.CaSO * volume.val()) + 'g</div>');
-		result.append('<div><b>CaCl</b>: ' + (salts.CaCl * volume.val()) + 'g</div>');
+
+		var CaSOgrams = salts.CaSO * volume.val();
+		var CaSOtsp = CaSOgrams / w.salts.CaSO.tsp;
+		
+
+		var CaClgrams = salts.CaCl * volume.val();
+		var CaCltsp = CaClgrams / w.salts.CaCl.tsp;
+
+
+		result.html('<div><b>CaSO</b>: ' + B.util.round(CaSOgrams, 2) + 'g  &nbsp;&nbsp;&nbsp; ' + B.util.round(CaSOtsp, 1) + ' tsp</div>');
+		result.append('<div><b>CaCl</b>: ' + B.util.round(CaClgrams, 2) + 'g &nbsp;&nbsp;&nbsp; ' + B.util.round(CaCltsp, 1) + ' tsp</div>');
 		
 		result.append('<BR><BR><div><b>RA</b>: ' + newRA + '</div>');
 		result.append('<div><b>Chloride:Sulfate</b>: ' + r + '</div>');
