@@ -46,7 +46,7 @@
 
 	w.ions = {
 		Ca: {
-			max: 250
+			max: 200
 		},
 		Cl: {
 			max: 250
@@ -61,7 +61,7 @@
 		if(!water){
 			water = w.profile;
 		}
-		return (water.HCO * 0.819672131) - (water.Ca / 3.5) - (water.Mg / 7);
+		return (water.HCO * 0.819672131) - (0.714 * water.Ca) - (0.585 * water.Mg);
 	};
 	/*
 	w.fromRA = function (RA, water) {
@@ -88,7 +88,7 @@
 			water = w.profile;
 		}
 		
-		var ca2 = (3.5) * ((water.HCO * 0.819672131) - (water.Ca / 3.5) - (water.Mg / 7) - RA);
+		var ca2 = 1.40056 * ((water.HCO * 0.819672131) - (0.714 * water.Ca) - (0.585 * water.Mg) - RA);
 		return Math.min(w.ions.Ca.max, ca2);
 		//return ca2;
 	};
@@ -100,6 +100,8 @@
 		if(!p){
 			p = w.profile;
 		}
+
+		c += p.Ca;
 
 		var c1 = p.Ca,
 		s1 = p.SO,
@@ -273,12 +275,17 @@
 		var w = B.water;
 
 		/* why do I have to offset by 13?? */
-		var ra = w.computeRaFromColor(srm) - 13;
+		var ra = w.computeRaFromColor(srm);
 		var ca = w.caRequired(ra);
+
+		//console.log('Ca required');
+		//console.log(ca);
 
 		var salts = w.caSaltsRequired(ca, r);
 
 		var newWater = w.adjustWaterWithSalts(salts);
+		//console.log(w.profile);
+		//console.log(newWater);
 		var newRA = parseInt(w.toRA(newWater), 10);
 		
 
