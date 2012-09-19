@@ -8,11 +8,17 @@
   <link rel="stylesheet" href="../../lib/Aristo.css">
 </head>
 <body>
-	
+
 	<div class="simple-water-calculator">
+		<div>
+			<label>Volume of Water to Adjust (gallons)</label>
+			<input name="volume" type="text" size="5" value="14" />
+		</div>
+		<div class="water-selection"></div>
 		<div class="sliders">
 			<div class="slider-info srm-slider-info ui-helper-clearfix">
 				<div class="srm-value"></div>
+				<div class="ra-value"></div>
 				<div class="srm-color"></div>
 			</div>
 			<div class="slider srm-slider"></div>
@@ -25,10 +31,21 @@
 			</div>
 			<div class="slider malt-balance-slider"></div>
 		</div>
+		<div class="result">
+
+		</div>
 	</div>
+
+	<script id="waterProfileForm" type="text/x-jquery-tmpl">
+		<form>
+			<label></label>
+			<input>
+		</form>
+	</script>
 
 	<script src="../../lib/jquery-1.7.2.min.js"></script>
 	<script src="../../lib/jquery-ui-1.8.21.min.js"></script>
+	<script src="../../lib/jquery.tmpl.min.js"></script>
 	<script src="../../brewcalc.js"></script>
 	<script src="simpleWater.js"></script>
 </body>  
