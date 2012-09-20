@@ -1,514 +1,890 @@
 [{
-	"name": "Admiral",
-	"alpha": 14.75
-}, {
-	"name": "Centennial",
-	"alpha": 10.5
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Sorachi Ace",
-	"alpha": 13.7
-}, {
-	"name": "Fuggles",
-	"alpha": 3.6
-}, {
-	"name": "Citra",
-	"alpha": 13.9
-}, {
-	"name": "Challenger",
-	"alpha": 7.5
-}, {
-	"name": "Citra",
-	"alpha": 12.3
-}, {
-	"name": "Hallertauer Mittelfrueh",
-	"alpha": 4
-}, {
-	"name": "Columbus (Tomahawk)",
-	"alpha": 13.9
-}, {
-	"name": "Calyspo",
-	"alpha": 12.8
-}, {
-	"name": "Chinook",
-	"alpha": 13
-}, {
-	"name": "Amarillo Gold",
-	"alpha": 8.5
-}, {
-	"name": "Citra",
-	"alpha": 14
-}, {
-	"name": "Hallertauer Hersbrucker",
-	"alpha": 2.4
-}, {
-	"name": "Nelson Sauvin",
-	"alpha": 11.4
-}, {
-	"name": "Cluster",
-	"alpha": 7
-}, {
-	"name": "Galaxy",
-	"alpha": 12.5
-}, {
-	"name": "Columbus",
-	"alpha": 15
-}, {
-	"name": "Hallertauer",
-	"alpha": 7.2
-}, {
-	"name": "Galaxy",
-	"alpha": 14.6
-}, {
-	"name": "Motueka",
-	"alpha": 7.6
-}, {
-	"name": "Crystal",
-	"alpha": 4.5
-}, {
-	"name": "Aramis",
-	"alpha": 8.2
-}, {
-	"name": "East Kent Goldings 2009",
-	"alpha": 5
-}, {
-	"name": "Hallertauer",
-	"alpha": 7.2
-}, {
-	"name": "Amarillo Gold",
-	"alpha": 8.5
-}, {
-	"name": "East Kent Golding",
-	"alpha": 4.75
-}, {
-	"name": "Eroica",
-	"alpha": 12
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "First Gold",
-	"alpha": 7.5
-}, {
-	"name": "Mt. Hood",
-	"alpha": 5.5
-}, {
-	"name": "Tettnang",
-	"alpha": 4.4
-}, {
-	"name": "Fuggle",
-	"alpha": 4.75
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Sorachi Ace",
-	"alpha": 13.7
-}, {
-	"name": "Goldings, East Kent",
-	"alpha": 5
-}, {
-	"name": "Fuggles",
-	"alpha": 3.6
-}, {
-	"name": "Hallertauer Mittelfrueh",
-	"alpha": 4
-}, {
-	"name": "Ahtanum",
-	"alpha": 6
-}, {
-	"name": "Fuggle",
-	"alpha": 4.75
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "Galena",
-	"alpha": 13
-}, {
-	"name": "Amarillo Gold",
-	"alpha": 8.5
-}, {
-	"name": "German Spalt Select",
-	"alpha": 5.5
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Glacier",
-	"alpha": 5.5
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "Fuggles",
-	"alpha": 3.6
-}, {
-	"name": "Golding",
-	"alpha": 4.75
-}, {
-	"name": "Golding",
-	"alpha": 4.5
-}, {
-	"name": "Hallertau",
-	"alpha": 4.5
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Falconer's Flight 7C's",
-	"alpha": 9.9
-}, {
-	"name": "Hallertau",
-	"alpha": 4.5
-}, {
-	"name": "Citra",
-	"alpha": 13
-}, {
-	"name": "Mt. Hood",
-	"alpha": 5.5
-}, {
-	"name": "Citra",
-	"alpha": 12
-}, {
-	"name": "US Cascade",
-	"alpha": 5.4
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Hallertau Gold",
-	"alpha": 6.25
-}, {
-	"name": "US Citra",
-	"alpha": 15.6
-}, {
-	"name": "UK Golding",
-	"alpha": 4.5
-}, {
-	"name": "Sorachi Ace",
-	"alpha": 11.45
-}, {
-	"name": "Citra",
-	"alpha": 12
-}, {
-	"name": "Mount Rainier",
-	"alpha": 6.55
-}, {
-	"name": "Palisade",
-	"alpha": 7.5
-}, {
-	"name": "Galaxy",
-	"alpha": 14.15
-}, {
-	"name": "Hallertauer Mittelfrüh",
-	"alpha": 4.25
-}, {
-	"name": "Herkules",
-	"alpha": 14.5
-}, {
-	"name": "Merkur",
-	"alpha": 13.5
-}, {
-	"name": "Opal",
-	"alpha": 6.5
-}, {
-	"name": "Saphir",
-	"alpha": 3.25
-}, {
-	"name": "Smaragd",
-	"alpha": 5
-}, {
-	"name": "Taurus",
-	"alpha": 14.5
-}, {
-	"name": "Cascade",
-	"alpha": 7
-}, {
-	"name": "Hallertauer Aroma",
-	"alpha": 7.5
-}, {
-	"name": "Motueka",
-	"alpha": 7
-}, {
-	"name": "Nelson Sauvin",
-	"alpha": 12.5
-}, {
-	"name": "Amarillo",
-	"alpha": 9.5
-}, {
-	"name": "Hallertauer Tradition",
-	"alpha": 4.5
-}, {
-	"name": "Pacifica",
-	"alpha": 5.5
-}, {
-	"name": "Pacific Gem",
-	"alpha": 14
-}, {
-	"name": "Riwaka",
-	"alpha": 5.5
-}, {
-	"name": "Styrian Arora",
-	"alpha": 8.25
-}, {
-	"name": "Styrian Bobek",
-	"alpha": 5.25
-}, {
-	"name": "Styrian Celeia",
-	"alpha": 4.5
-}, {
-	"name": "Pilgrim",
-	"alpha": 11
-}, {
-	"name": "Goldings (Kent)",
-	"alpha": 6.6
-}, {
-	"name": "Goldings (Kent)",
-	"alpha": 6.6
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "Hersbrucker",
-	"alpha": 4.25
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "Citra",
-	"alpha": 11
-}, {
-	"name": "Pearle",
-	"alpha": 7.2
-}, {
-	"name": "Williamette",
-	"alpha": 5.2
-}, {
-	"name": "Williamette",
-	"alpha": 5.2
-}, {
-	"name": "Williamette",
-	"alpha": 5.2
-}, {
-	"name": "Williamette",
-	"alpha": 5.2
-}, {
-	"name": "Spalter",
-	"alpha": 4.5
-}, {
-	"name": "Mt. Hood",
-	"alpha": 5.5
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "Horizon",
-	"alpha": 12
-}, {
-	"name": "Mt. Hood",
-	"alpha": 5.5
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "Kent Golding",
-	"alpha": 4.75
-}, {
-	"name": "Liberty",
-	"alpha": 4
-}, {
-	"name": "Magnum",
-	"alpha": 13
-}, {
-	"name": "Magnum",
-	"alpha": 13
-}, {
-	"name": "Millenium",
-	"alpha": 15.5
-}, {
-	"name": "Mount Hood",
-	"alpha": 6.5
-}, {
-	"name": "Newport",
-	"alpha": 15.25
-}, {
-	"name": "Apollo",
-	"alpha": 19.5
-}, {
-	"name": "Northdown",
-	"alpha": 8.5
-}, {
-	"name": "Northern Brewer",
-	"alpha": 8.5
-}, {
-	"name": "Northern Brewer",
-	"alpha": 9
-}, {
-	"name": "Nugget",
-	"alpha": 13
-}, {
-	"name": "Olympic",
-	"alpha": 12
-}, {
-	"name": "Perle",
-	"alpha": 7.25
-}, {
-	"name": "Perle",
-	"alpha": 7.75
-}, {
-	"name": "Phoenix",
-	"alpha": 4.85
-}, {
-	"name": "Pioneer",
-	"alpha": 9
-}, {
-	"name": "Polish Lublin",
-	"alpha": 3.75
-}, {
-	"name": "Bramling Cross",
-	"alpha": 6
-}, {
-	"name": "Progress",
-	"alpha": 6.25
-}, {
-	"name": "Pride of Ringwood",
-	"alpha": 8.5
-}, {
-	"name": "Riwaka",
-	"alpha": 5.5
-}, {
-	"name": "Saaz",
-	"alpha": 3.75
-}, {
-	"name": "Saaz",
-	"alpha": 3.75
-}, {
-	"name": "San Juan Ruby Red",
-	"alpha": 7.01
-}, {
-	"name": "Santiam",
-	"alpha": 6
-}, {
-	"name": "Satus",
-	"alpha": 13.25
-}, {
-	"name": "Simcoe",
-	"alpha": 13
-}, {
-	"name": "Spalt",
-	"alpha": 4.75
-}, {
-	"name": "Brewers Gold",
-	"alpha": 9
-}, {
-	"name": "Spalt Select",
-	"alpha": 5
-}, {
-	"name": "Spalt Select",
-	"alpha": 4
-}, {
-	"name": "Sterling",
-	"alpha": 7.5
-}, {
-	"name": "Strisselspalt",
-	"alpha": 4
-}, {
-	"name": "Styrian Golding",
-	"alpha": 5.25
-}, {
-	"name": "Summit",
-	"alpha": 18
-}, {
-	"name": "Tardif de Bourgogne",
-	"alpha": 4.3
-}, {
-	"name": "Target",
-	"alpha": 11
-}, {
-	"name": "Tettnanger",
-	"alpha": 4.5
-}, {
-	"name": "Tettnanger",
-	"alpha": 4.5
-}, {
-	"name": "Brewers Gold",
-	"alpha": 6
-}, {
-	"name": "Tomahawk",
-	"alpha": 16
-}, {
-	"name": "Tradition",
-	"alpha": 6
-}, {
-	"name": "Ultra",
-	"alpha": 4.75
-}, {
-	"name": "Vanguard",
-	"alpha": 4.835
-}, {
-	"name": "Warrior",
-	"alpha": 16
-}, {
-	"name": "WGV (Whitbread Golding Variety)",
-	"alpha": 6
-}, {
-	"name": "Willamette",
-	"alpha": 4.75
-}, {
-	"name": "Yakima Cluster",
-	"alpha": 7.25
-}, {
-	"name": "Zeus",
-	"alpha": 15
-}, {
-	"name": "Tettnang",
-	"alpha": 4.4
-}, {
-	"name": "Bullion",
-	"alpha": 7.75
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 4.6
-}, {
-	"name": "East Kent Goldings",
-	"alpha": 4.5
-}, {
-	"name": "Styrian Goldings",
-	"alpha": 5.4
-}, {
-	"name": "Hallertau Mittelfruh",
-	"alpha": 4.5
-}, {
-	"name": "Mt. Hood",
-	"alpha": 5.5
-}, {
-	"name": "HBC342",
-	"alpha": 14.9
-}, {
-	"name": "Cascade",
-	"alpha": 5.75
-}, {
-	"name": "Goldings, East Kent",
-	"alpha": 5
-}, {
-	"name": "Falconer's Flight",
-	"alpha": 11.4
-}, {
-	"name": "Warrior®",
-	"alpha": 16
-}, {
-	"name": "Fuggles",
-	"alpha": 4
+"name": "Admiral",
+"aa": 14,
+"flavor": "Known for its bittering potential.",
+"substitutions": "U.K. Challenger, U.K. Northdown, U.K. Target",
+"origin": "United Kingdom",
+"history": "Bred from Challenger hops and Northdown hops at Wye College and released in 1998. Developed to expand the number of bittering hops available in the UK."
+},{
+"name": "Aged Debittered Hops",
+"aa": 0,
+"flavor": "Used in brewing Lambics",
+"substitutions": "N/A",
+"origin": "N/A",
+"history": "N/A"
+},{
+"name": "Ahtanum",
+"aa": 6,
+"flavor": "Floral, citrus, sharp, and piney.",
+"substitutions": "Amarillo, Cascade",
+"origin": "USA",
+"history": "Ahtanum is grown by Yakima Chief Ranches in Yakima, Washington. Ahtanum is a good alternative to Cascade or Amarillo hops, but has more citrus grapefruit notes and less bitterness than Cascade."
+},{
+"name": "Amarillo",
+"aa": 8,
+"flavor": "A flowery, citrus-like aroma with medium bittering value that is gaining acceptance as a substitute for Cascade due to its hardy nature.",
+"substitutions": "Cascade, Centennial",
+"origin": "USA",
+"history": "A newer variety, Amarillo Hops are privately grown only by Virgil Gamache Farms in Toppenish, Washington. Has a lemon to grapefruit citrus quality and are good for bittering. Similar to Cascade, but qualities are more pronounced."
+},{
+"name": "Apollo",
+"aa": 16,
+"flavor": "Strong grapefruit",
+"substitutions": "Zeus",
+"origin": "USA",
+"history": "This super high alpha variety was developed by the Hopsteiner Breeding Program and released in 2006. It is resistant to powdery and downy mildew. The very high alpha, good storage stability and low cohumulone ratio makes it an excellent choice for bittering. Added late into the boil it provides a strong grapefruit and hoppy note."
+},{
+"name": "Aurora",
+"aa": 7,
+"flavor": "European aroma",
+"substitutions": "Northern Brewer",
+"origin": "Yugoslavia",
+"history": "N/A"
+},{
+"name": "Bramling Cross",
+"aa": 6,
+"flavor": "Quite mild, fruity currant aroma.",
+"substitutions": "U.K. Kent Golding, U.K. Progress, Whitbread Golding Variety",
+"origin": "N/A",
+"history": "N/A"
+},{
+"name": "Bravo",
+"aa": 15,
+"flavor": "Pleasant fruity and floral aroma",
+"substitutions": "Apollo, Zeus",
+"origin": "USA",
+"history": "Bravo is a second generation super high alpha variety that was developed by the Hopsteiner Breeding Program and released in 2006. It has good resistance to powdery mildew.   Bravo is an excellent bittering hop that provides pleasant fruity and floral aroma characteristics."
+},{
+"name": "Brewer's Gold",
+"aa": 8,
+"flavor": "Bittering hop with neutral aroma character.",
+"substitutions": "Bullion",
+"origin": "United Kingdom",
+"history": "Developed by professor Salmon in 1934 at Wye College. Mainly used for bittering and has a sharp or pungent quality. Blackcurrant, fruity, spicy aroma."
+},{
+"name": "Bullion",
+"aa": 8,
+"flavor": "A rich hop primarily used for bittering. Intense blackcurrant aroma.",
+"substitutions": "Columbus, Northern Brewer",
+"origin": "United Kingdom",
+"history": "Bred in 1919 in England from a wild Manitoban female crossed with an English male hop. Mainly used for bittering and has strong black currant characteristics. Limited growing in the USA."
+},{
+"name": "Cascade (Aregentina)",
+"aa": 4,
+"flavor": "Different than US grown Cascades with more of a spicy flavor and lemony aroma.",
+"substitutions": "Any noble hops",
+"origin": "Aregentina",
+"history": "N/A"
+},{
+"name": "Cascade (New Zealand)",
+"aa": 5,
+"flavor": "Similar to US Cascade, has floral, citrus grapefruit character.",
+"substitutions": "Ahtanum, Cascade, Centennial",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Cascade (U.S.)",
+"aa": 5,
+"flavor": "Pleasant, flowery, spicy, and citrusy. Can have a grapefruit flavor.",
+"substitutions": "Amarillo, Centennial, possibly Columbus",
+"origin": "USA",
+"history": "Developed in Oregon, Cascade hops are the first American hop variety accepted for commercial use in 1972, and now the most widely used hop by craft brewers in the USA. It is a cross-breed of Fuggles and Serebrianker from Russia. Good for flavor and aroma with a grapefruit citrus character. Good for dry-hopping."
+},{
+"name": "Calypso",
+"aa": 5,
+"flavor": "Dual purpose, pleasently complex, fruity aroma, hints of pear and apple, notes of earthy tea.",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Celeia",
+"aa": 5,
+"flavor": "Moderate and pleasant zesty bitterness with matching floral aroma, making its use widespread in both ale and lager brewing. Stores very well.",
+"substitutions": "Styrian Golding",
+"origin": "Czechoslovakia",
+"history": "N/A"
+},{
+"name": "Centennial",
+"aa": 10,
+"flavor": "Medium with floral and citrus tones.",
+"substitutions": "Cascade, possibly Columbus",
+"origin": "USA",
+"history": "Centennial was first bred in Washington in 1974 by crossing Brewers Gold hops with Fuggle, East Kent Golding, Bavarian and an N/A variety (USDA). Good for aroma and bittering. Floral and citrus character."
+},{
+"name": "Challenger",
+"aa": 7,
+"flavor": "Mild to moderate, quite spicy.",
+"substitutions": "Northern Brewer, U.S. or German Perle",
+"origin": "United Kingdom",
+"history": "Introduced in 1972 at Wye College in England, this variety was developed from German Northern Brewer hops. Mild to moderate intensity and excellent for bittering. Also used for flavor and aroma. Spicy aroma. Blends well with other hops."
+},{
+"name": "Chelan",
+"aa": 13,
+"flavor": "Similar to galena",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Chelan is a high alpha variety with a very high percentage of beta acids. The variety was developed through the John I. Haas, Inc., breeding program and released in 1994. It is a daughter of Galena and therefore has analytical data similar to Galena."
+},{
+"name": "Chinook",
+"aa": 12,
+"flavor": "Mild to medium-heavy, spicy, piney, and grapefruity.",
+"substitutions": "Columbus, Northern Brewer, Nugget, U.K. Target",
+"origin": "USA",
+"history": "Released in 1985, this breed was developed by combining Petham Golding with the USDA 63012 male. Primarily grown in the Yakima, Washington area. Mainly used for bittering, sometimes for aroma. Mild to medium-heavy, spicy, piney, and grapefruity character."
+},{
+"name": "Citra",
+"aa": 12,
+"flavor": "Fruity, passionfruit",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "A very new cross-breed of Hallertau MF, U.S. Tettnanger, East Kent Golding, Bavarian, and Brewers Gold released in 2008. Has a very fruity (passionfruit) character and is good for dry-hopping."
+},{
+"name": "Cluster",
+"aa": 7,
+"flavor": "Medium and quite spicy.",
+"substitutions": "Galena",
+"origin": "USA",
+"history": "Cluster is the original American hop likely developed as a cross-breed of wild American hops and strains brought over by the Dutch and English in the 1600's. Used as a general purpose hop with medium bittering potential. Spicy character. Limited acreage grown today."
+},{
+"name": "Columbus",
+"aa": 13,
+"flavor": "Earthy, spicy, pungent, with a light citrus character.",
+"substitutions": "Chinook, Northern Brewer, Nugget, U.K. Target, Zues",
+"origin": "USA",
+"history": "Also known as Tomahawk and Zues this hop was developed by the HopUnion breeding program. Earthy, spicy, pungent, with a light citrus character. Excellent for dry-hopping."
+},{
+"name": "Comet",
+"aa": 11,
+"flavor": "bittering hop, wild american aroma",
+"substitutions": "Galena",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Crystal",
+"aa": 3,
+"flavor": "Mild and pleasant, spicy and flowery.",
+"substitutions": "French Strisslespalt, Hallertauer, Hersbrucker, Liberty, Mt. Hood",
+"origin": "USA",
+"history": "Developed in Corvallis, Oregon, Crystal is a triploid (3 chromosomes and seedless) aroma-type breed, released for commercial production in 1993. It originates from a seedling selection of Hallertau and USDA 21381M. Mild floral and spicy aroma."
+},{
+"name": "Delta",
+"aa": 6,
+"flavor": "Slightly spicy, hint of citrus",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Developed by Hopsteiner, this hop is a aroma-type hop, originated from a cross between Fuggle and a male derived from Cascade. It is slightly spicy with a hint of citrus."
+},{
+"name": "East Kent Goldings",
+"aa": 5,
+"flavor": "Gentle, fragrant, and pleasant.",
+"substitutions": "U.K. Progress, U.S. Golding, Whitbread Golding Variety",
+"origin": "United Kingdom",
+"history": "Golding is a group of hops originally from England. English Goldings grown in East Kent are a premium hop, called East Kent Golding. Kent Goldings are from Kent, and those from everywhere else are simply referred to as Goldings. A variety is also grown Oregon and Washington. They are mostly used for aroma and have a floral and sweet character."
+},{
+"name": "Eroica",
+"aa": 11,
+"flavor": "Strong but pleasant aroma.",
+"substitutions": "Chinook, Galena, Nugget",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Falconer's Flight",
+"aa": 11,
+"flavor": "Tropical Fruit, Citrus, floral, lemon and Grapefruit character (the best of the best)",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "An exclusive proprietary hop blend created by Hop Union to honor and support the legacy of Northwest brewing legend, Glen Hay Falconer, who passed in 2002. This novel proprietary pellet blend is comprised of many of the Northwest’s most unique hop varieties and is perfect for any Northwest-style IPA. Each hop has been hand selected for its superior aromatic qualities, imparting distinct tropical, citrus, floral, lemon and grapefruit tones.  A portion of the proceeds go to support the Falconer Foundation, which supports brewers and brewing. "
+},{
+"name": "Falconer's Flight Seven Seas",
+"aa": 10,
+"flavor": "Strong Fruit, Citrus, Spicy, earthy (the best of the best)",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Following the success of the Falconer’s Flight™, Hop Union is proud to bring you Falconer's Seven Seas (or 7C's), as you can imagine, this is a custom blend of 7 of the C-named hops and a few experimental hop varieties that we don't even know about yet. Falconer’s Flight 7C’s delivers strong fruit and citrus characteristics but is layered with spicy, earthy overtones that allow it to function as the perfect addition/alternative to your IPA / Pale Ale style brews. Targeted brewing values are 9.5% Alpha, 4.4% Beta and 29% Co-humulone "
+},{
+"name": "First Gold",
+"aa": 7,
+"flavor": "A little like Golding family; spicy.",
+"substitutions": "maybe Crystal, U.K. Kent Golding",
+"origin": "United Kingdom",
+"history": "This newer variety was bred at Wye College in 1995, and is a cross-pollination of Whitbread Golding and a dwarf male. Rich citrus character with flavors described as orange peel and dried apricot. Good for dry-hopping. Limited production."
+},{
+"name": "Fuggle (U.K.)",
+"aa": 5,
+"flavor": "Mild, pleasant, hoppy, and robust.",
+"substitutions": "Styrian Golding, U.S. Fuggle, Willamette",
+"origin": "United Kingdom",
+"history": "First grown by Richard Fuggle in England in 1861 and released commercially in 1875, Fuggle hops were once the most dominant variety in the UK. Also grown in Washington and Oregon, but the USA version is milder than the UK version. Mostly used for aroma and flavor. Styrian Goldings are Fuggle hops grown in Slovenia."
+},{
+"name": "Fuggle (U.S.)",
+"aa": 5,
+"flavor": "Mild and pleasant, earthy and fruity.",
+"substitutions": "Styrian Golding, U.K. Fuggle, U.S. Tettnanger, Willamette",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Galaxy",
+"aa": 13,
+"flavor": "Dual purpose hop, citrus, passionfruit",
+"substitutions": "N/A",
+"origin": "Australia",
+"history": "This is a triploid hop bred by Hop Products Australia at their Rostrevor Breeding Garden Victoria in 1994. It was bred by crossing a female tetraploid (J78) with a male derived from Perle. A dual purpose hop with citrus and passionfruit characteristics."
+},{
+"name": "Galena",
+"aa": 12,
+"flavor": "Medium but pleasant hoppiness, citrusy.",
+"substitutions": "Chinook, Nugget, Pride of Ringwood",
+"origin": "USA",
+"history": "Galena is a bittering hop bred in 1968 from Brewers Gold and an open pollination in Idaho. It was released commercially in 1978. Mainly used for bittering and works well with other hops."
+},{
+"name": "Glacier",
+"aa": 7,
+"flavor": "Dual purpose hop with a citrus earthy aroma.",
+"substitutions": "Styrian Golding, U.S. Fuggle, U.S. Tettnanger, Willamette",
+"origin": "USA",
+"history": "Released as a public variety in 2000 by Dr. Stephen Kenny at Washington State University. It was chosen for its low cohumulone and good yield potential. Mainly used for its pleasant aroma."
+},{
+"name": "Goldings (U.S.)",
+"aa": 5,
+"flavor": "Mild, extremely pleasant, and gently hoppy.",
+"substitutions": "U.K. Golding, U.K. Progress, Whitbread Golding Variety",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Green Bullet",
+"aa": 12,
+"flavor": "Dual purpose hop.",
+"substitutions": "Crystal, Hallertauer Tradition, Liberty, Mt. Hood, Ultra",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Hallertau (German)",
+"aa": 6,
+"flavor": "Known for its aromatic properties similar to Hallertauer.",
+"substitutions": "Crystal, Mt. Hood",
+"origin": "Germany",
+"history": "Hallertau hops are grown in the region of Bavaria by the same name. Hallertauer Mittelfrüh is a noble hop, however, other varieties such as Gold, Merkur, Tradition, Magnum, and Taurus exist and can be used as a replacement. Used for flavor and aroma, these hops have a floral and earthy character."
+},{
+"name": "Hallertau (U.S)",
+"aa": 5,
+"flavor": "Very mild, pleasant, and slightly flowery, some spicy.",
+"substitutions": "Hallertauer Tradition, Liberty, Ultra",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Hallertau Aroma",
+"aa": 7,
+"flavor": "A dual purpose hop which has been used to replace Perle",
+"substitutions": "Perle",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Hallertauer Mittelfruh",
+"aa": 4,
+"flavor": "Mild and pleasant.",
+"substitutions": "German Tradition, Liberty, Ultra",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Hallertauer Tradition",
+"aa": 4,
+"flavor": "Known for its aromatic properties. A replacement for Hallertauer Mittelfrüh.",
+"substitutions": "Crystal, Liberty",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Herald",
+"aa": 12,
+"flavor": "New dual-purpose hop",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Herkules",
+"aa": 14,
+"flavor": "High-alpha bittering hop with pronounced spicy profile. Use in hoppy German ales or lagers.",
+"substitutions": "N/A",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Hersbrucker",
+"aa": 4,
+"flavor": "Mild to semi-strong, pleasant, hoppy.",
+"substitutions": "French Strisslespalt, Mt. Hood",
+"origin": "Germany",
+"history": "This hop originated in the Hersbrucker region of Germany and was selected to replace Hallertau MF when its crops were overcome by verticillium (fungi) in the 1970's and 1980's. For this reason, this hop is sometimes called Hallertau Hersbrucker. Hersbrucker is mainly used for aroma and has a grassy/earthy aroma. Mt.Hood hops are a good replacement."
+},{
+"name": "Horizon",
+"aa": 12,
+"flavor": "Pleasantly hoppy.",
+"substitutions": "Magnum or a high-alpha hop",
+"origin": "USA",
+"history": "Originally bred in Oregon in 1970, this sister of Nugget hops was released commercially in 1998. Used for aroma and bittering. Limited supply - use Magnum as a replacement."
+},{
+"name": "Legacy",
+"aa": 7,
+"flavor": "Dual purpose, floral, blackcurrant and spicy aroma",
+"substitutions": "Cluster, Galena, Northern Brewer",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Liberty",
+"aa": 4,
+"flavor": "Mild and clean aroma, slightly spicy character.",
+"substitutions": "Hallertauer, Hallertauer Tradition, Mt. Hood",
+"origin": "USA",
+"history": "Developed in 1983 and released in 1991, Liberty is a cross-breed of Hallertau mf and a downy mildew resistant male (USDA 64035M). Similar, and sometimes used as a replacement to Hallertau MF. Character is mild with light spiciness."
+},{
+"name": "Lublin (Lubelski)",
+"aa": 5,
+"flavor": "Mild and typical of noble aroma types, spicy, herbal.",
+"substitutions": "Czech Saaz, U.S. Saaz, U.S. Tettnanger",
+"origin": "Poland",
+"history": "Also known as Lubelski, this hop was derived from Saaz hops. Some consider it a noble hop and it has noble qualities. Used for aroma with a mild, herbal and spicy character."
+},{
+"name": "Magnum (Germany)",
+"aa": 12,
+"flavor": "Known for bittering value and quality.  Aromatic nature is one of spice and citrus",
+"substitutions": "Northern Brewer",
+"origin": "Germany",
+"history": "Magnum was bred in 1980 at Hüll, the German Hop Research Institute, from the American variety Galena and the German male 75/5/3. Magnum hops are also now grown in the USA and are very similar to their German counterparts. Mainly used for bittering, and has a spicy, citrusy character."
+},{
+"name": "Magnum (U.S.)",
+"aa": 14,
+"flavor": "Very clean floral aroma",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Marynka (New Zealand)",
+"aa": 7,
+"flavor": "New aroma hop",
+"substitutions": "Czech Saaz, U.S. Saaz",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Marynka (Polish)",
+"aa": 11,
+"flavor": "New hop variety with intense aroma",
+"substitutions": "N/A",
+"origin": "Poland",
+"history": "N/A"
+},{
+"name": "Merkur",
+"aa": 13,
+"flavor": "Excellent bittering power with stronger aroma than Magnum - earthy, floral, Hallertau-like. ",
+"substitutions": "N/A",
+"origin": "German",
+"history": "N/A"
+},{
+"name": "Millenium",
+"aa": 13,
+"flavor": "Mild, herbal, similar to Nugget.",
+"substitutions": "Nugget",
+"origin": "USA",
+"history": "Developed as a cross-breed of Nugget and Columbus hops in 1989 in the Pacific Northwest, and released commercially in 2000. Bred for higher tolerance to mildew. Similar in character to Nugget with floral and herbal qualities and a light spiciness. Mainly used for bittering due to high Alpha content."
+},{
+"name": "Motueka",
+"aa": 7,
+"flavor": "New aroma hop",
+"substitutions": "Czech Saaz, U.S. Saaz",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Mt. Hood",
+"aa": 6,
+"flavor": "Mild, pleasant, and clean, somewhat pungent and resiny.",
+"substitutions": "Crystal, French Strisslespalt, Hersbrucker",
+"origin": "USA",
+"history": "Released in 1989, this is a triploid hop derived from Hallertau MF that is mainly used for aroma. Mt. Hood has a mild, spicy character. Named for Oregon's tallest mountain."
+},{
+"name": "Mt. Ranier",
+"aa": 7,
+"flavor": "Licorice, hint of citrus",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Bred at Oregon State University in Corvallis, Oregon, this very new hop is likely a cross of Hallertau, Galena, and Fuggles. The aroma and flavor are similar to Hallertau and it is used for aroma and bittering. Its character is licorice with a hint of citrus."
+},{
+"name": "Nelson Sauvin",
+"aa": 13,
+"flavor": "Unique hop with grape-like flavor",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Newport",
+"aa": 14,
+"flavor": "Mild herbal, citrus aroma",
+"substitutions": "Galena, Nugget",
+"origin": "USA",
+"history": "Developed at the Agricultural Research Service in Corvallis, Oregon, Newport hops were released in 2002. Mainly used for bittering."
+},{
+"name": "Northdown",
+"aa": 8,
+"flavor": "Fruity with some spiciness.",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "Developed in the 1970's, this resinous hop was used for bittering due to its high Alpha content at the time. Since then, much higher alpha hops have been developed, but Northdown lives on due to its excellent flavor qualities. It is Northern Brewer crossed with a German male resistant to downy mildew. Limited availability."
+},{
+"name": "Northern Brewer (German)",
+"aa": 8,
+"flavor": "Medium-strong with some wild tones.",
+"substitutions": "Chinook, U.S. Northern Brewer",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Northern Brewer (U.K.)",
+"aa": 9,
+"flavor": "Medium-strong with some wild tones.",
+"substitutions": "Chinook",
+"origin": "United Kingdom",
+"history": "Bred in England in 1934, this hop is a blend of an English Canterbury Golding female plant and the American male plant OB21. Now grown in Belgium, Spain, USA, and is one of the main hops grown in Germany. Mainly used for bittering due to high Alpha content. Chinook is a possible substitute."
+},{
+"name": "Northern Brewer (U.S.)",
+"aa": 8,
+"flavor": "Medium-strong with some wild tones.",
+"substitutions": "Chinook, Nugget",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Northwest Golding",
+"aa": 5,
+"flavor": "Known for aromatic properties.",
+"substitutions": "N/A",
+"origin": "N/A",
+"history": "N/A"
+},{
+"name": "Nugget",
+"aa": 13,
+"flavor": "Quite heavy and herbal, with pear and peach notes",
+"substitutions": "Chinook, Columbus, Galena, U.K. Target",
+"origin": "USA",
+"history": "Selected from a cross between Brewer’s Gold, Early Green, Caterbury Golding, Bavarian and an N/A variety in 1970. Released in 1983, this is a popular bittering hop in the USA. It is grown in Yakima, Washington and Germany. Its character is described as heavy and herbal."
+},{
+"name": "Olympic",
+"aa": 12,
+"flavor": "Mild to medium, citrusy aroma, spicy.",
+"substitutions": "Chinook",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Omega",
+"aa": 8,
+"flavor": "Bittering",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Opal",
+"aa": 6,
+"flavor": "A new spicy hop variety.",
+"substitutions": "N/A",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Pacific Gem",
+"aa": 14,
+"flavor": "Bittering hop with a woody character.",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "This is a triploid, high alpha hop that was released in 1987. This organic hop is mainly used for bittering. Has a woody and fruity character."
+},{
+"name": "Pacific Jade",
+"aa": 13,
+"flavor": "A soft bittering hop with spicy and citrus aroma qualities.",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Pacifica",
+"aa": 5,
+"flavor": "An aroma hop with some citrus and floral character",
+"substitutions": "Hallertau family",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Palisade",
+"aa": 7,
+"flavor": "Clean floral charcter",
+"substitutions": "Cascade",
+"origin": "USA",
+"history": "Grown by Yakima Chief Ranches, this hop is used for aroma. This new hop is bred from Swiss Tettnanger. They have a clean floral character."
+},{
+"name": "Perle (German)",
+"aa": 7,
+"flavor": "Moderately intense, good and hoppy, fruity, minty and a little spicy.",
+"substitutions": "Northern Brewer, U.S. Perle",
+"origin": "Germany",
+"history": "Bred in Germany at the Hüll Hop Research Institute in 1978 from Northern Brewer, this hop is grown in Germany, Belgium, and the USA (Washington and Oregon). The USA version has higher alpha acids ranging from 7% to 9.5%. It is used for bittering and flavoring/aroma. Its character is described as moderately intense, minty, and spicy."
+},{
+"name": "Perle (U.S.)",
+"aa": 7,
+"flavor": "Known for its aromatic and bittering properties, pleasant and slightly spicy.",
+"substitutions": "Chinook, Cluster, Galena, Northern Brewer",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Phoenix",
+"aa": 11,
+"flavor": "Similar to U.K. Challenger.",
+"substitutions": "U.K. Challenger, U.K. Kent Golding, U.K. Northdown",
+"origin": "United Kingdom",
+"history": "Developed at Wye College as a replacement for Challenger hops. Dual-purpose hop, mild aroma and slightly spicy flavor."
+},{
+"name": "Pilgram",
+"aa": 11,
+"flavor": "Powerful bittering with nice, citric hop aroma.",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "Powerful bittering with nice, citric hop aroma. Try as kettle and dry hop in English or US ales."
+},{
+"name": "Pilot",
+"aa": 10,
+"flavor": "Mild, herbal, grassy, with lemon hints.",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "Very new hop variety used for bittering and developed by Charles Faram & Co.. Character is mild, herbal, grassy, with lemon hints."
+},{
+"name": "Pioneer",
+"aa": 9,
+"flavor": "Moderate bitterness and citrus characteristics.",
+"substitutions": "U.K. Kent Golding",
+"origin": "United Kingdom",
+"history": "Bred at Wye College, this dwarf variety is used for bittering and aroma. It has moderate bitterness and citrus characteristics."
+},{
+"name": "Premiant",
+"aa": 10,
+"flavor": "A dual purpose variety with a balanced bitterness and slightly spicy aroma",
+"substitutions": "N/A",
+"origin": "Czechoslovakia",
+"history": "N/A"
+},{
+"name": "Pride of Ringwood",
+"aa": 8,
+"flavor": "Quite pronounced, woody, earthy, herbal.",
+"substitutions": "Cluster, Galena",
+"origin": "Australia",
+"history": "Bred in Australia, this hop is a cross between the English Pride of Kent hop and a wild Tasmanian variety. At time of its release in 1965, it had the highest alpha acid percentage in the world. It is mainly used for bittering and has a strong citrus character."
+},{
+"name": "Progress",
+"aa": 6,
+"flavor": "Moderately strong, good aroma.",
+"substitutions": "Fuggle, U.K. Kent Golding",
+"origin": "United Kingdom",
+"history": "Bred in 1951 at Wye College as a cross between a Whitbread Golding female and a wild American male. Mainly used for aroma with moderate bittering. Described as robust and fruity."
+},{
+"name": "Riwaka",
+"aa": 5,
+"flavor": "Citrusy, grapefruit aroma hop",
+"substitutions": "Czech Saaz, possible American C hops",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Saaz (Czech)",
+"aa": 4,
+"flavor": "Very mild with pleasant hoppy notes, earthy, spicy, and herbal.",
+"substitutions": "U.S. Saaz",
+"origin": "Czechoslovakia",
+"history": "This famous Czech hop has been grown for over 700 years. Mainly used for aroma and flavor, the character is mild earthy, herbal, and spicy. There is a variety grown in the USA."
+},{
+"name": "Saaz (U.S)",
+"aa": 4,
+"flavor": "Mild and pleasant, earthy and spicy.",
+"substitutions": "Czech Saaz",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Santiam",
+"aa": 7,
+"flavor": "Noble characteristics.",
+"substitutions": "German Spalt, German Spalt Select, German Tettnanger",
+"origin": "USA",
+"history": "Released in 1997 by the Agricultural Research Service in Corvallis, Oregon, this is the first naturally seedless hop and was derived from Tettnanger, Hallertauer Mittelfrüh, and an American hop. Has noble characteristics and is mainly used for aroma. Character is floral and herbal."
+},{
+"name": "Saphir",
+"aa": 4,
+"flavor": "Mild aroma hop.",
+"substitutions": "Any noble hops",
+"origin": "Germany",
+"history": "Some consider this newer hop a member of the noble hop family with a refined aroma & a mild flavor. Bred as an alternative to Hallertau's susceptibility to pests and disease. Used for aroma. Sweet & clean citrus aroma that has a hint of tangerine."
+},{
+"name": "Satus",
+"aa": 13,
+"flavor": "Known for its bittering and aromatic properties.",
+"substitutions": "Galena",
+"origin": "USA",
+"history": "Grown by Yakima Chief Ranches in Washington, this newer hop is mainly used for bittering and is similar to Galena. Citrusy. Limited availability."
+},{
+"name": "Select",
+"aa": 5,
+"flavor": "noble-type aroma",
+"substitutions": "Czech Saaz, German Spalt, Tettnanger",
+"origin": "Germany",
+"history": "Bred at the Hüll Research Institution from Hallertauer Mittlefrüh and Spalt to be disease resistant. Released in 1991, this hop is mainly used for aroma. Also known as Spalt Select or Spalter Select."
+},{
+"name": "Serebrianka",
+"aa": 4,
+"flavor": "Light perfume",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Simcoe",
+"aa": 13,
+"flavor": "pine or wood character with notes of passionfruit or apricot.",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Released in 2000 by Yakima Chief Ranches in Washington. Used for aroma and bittering. Has a pine or wood character with notes of passionfruit or apricot."
+},{
+"name": "Sladek",
+"aa": 5,
+"flavor": "A dual-purpose Saaz hybrid.",
+"substitutions": "Czech Saaz, U.S. Saaz, U.S. Tettnanger",
+"origin": "Czechoslovakia",
+"history": "N/A"
+},{
+"name": "Smaragd",
+"aa": 5,
+"flavor": "Aroma variety, pronounced fruity notes",
+"substitutions": "N/A",
+"origin": "German",
+"history": "New aroma variety with pronounced fruity notes. Try in Alt, Kolsch, or blond ale."
+},{
+"name": "Sonnet Golding",
+"aa": 6,
+"flavor": "New variety, no pedigree or profile available yet",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Available at Hopsdirect.com"
+},{
+"name": "Sorachi Ace",
+"aa": 14,
+"flavor": "Bittering hop with lemony aroma",
+"substitutions": "N/A",
+"origin": "Japan",
+"history": "Developed for Sapporo and used in their beers. It is a cross-breed of Brewers Gold and Saaz. Used for bittering and has a lemon character."
+},{
+"name": "Southern Cross",
+"aa": 12,
+"flavor": "Piney, resinous bittering hop",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Sovereign",
+"aa": 5,
+"flavor": "Noble characteristics.",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Spalt",
+"aa": 5,
+"flavor": "Mild and pleasant, slightly spicy.",
+"substitutions": "German Spalt Select, U.S. Saaz, U.S. Tettnanger",
+"origin": "Germany (Bavaria)",
+"history": "Grown around the town of Spalt in Bavaria. Used for aroma. Character is mild and slightly spicy. Limited availability."
+},{
+"name": "Spalt Select (German)",
+"aa": 5,
+"flavor": "Very fine Spalter-type aroma.",
+"substitutions": "German Spalt, U.S. Saaz, U.S. Tettnanger",
+"origin": "Germany",
+"history": "N/A"
+},{
+"name": "Spalt Select (U.S)",
+"aa": 4,
+"flavor": "Medium intensity and pleasant hoppy qualities. Medium-strong aroma with wild American tones.",
+"substitutions": "Saaz, Tettnanger",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Sterling",
+"aa": 8,
+"flavor": "Herbal, spicy, pleasant aroma, hint of floral and citrus.",
+"substitutions": "Saaz",
+"origin": "USA",
+"history": "Released in 1998, Sterling is a cross-breed of Saaz, Cascade, Brewers Gold, Early Green, and an N/A variety. Used for aroma and is a good substitute for Saaz. Character is mild, earthy and spicy with floral and citrus hints."
+},{
+"name": "Sticklebract",
+"aa": 9,
+"flavor": "A good alpha hop with a high Selinene content typical of many English Hops",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "A triploid variety developed at the DSIR Research Station from an open pollinated First Choice; high alpha variety released in 1972. "
+},{
+"name": "Strisselspalt",
+"aa": 4,
+"flavor": "Medium intensity, pleasant, hoppy.",
+"substitutions": "Crystal, Hersbrucker, Mt. Hood",
+"origin": "France",
+"history": "Similar to Hersbrucker, this hop originates in the Alsace region of France. This hop has a moderate intensity and pleasant aroma."
+},{
+"name": "Styrian Bobek",
+"aa": 5,
+"flavor": "Earthy, slightly fruity",
+"substitutions": "Northern Brewer",
+"origin": "German",
+"history": "Low to moderate alpha and earthy, slightly fruity aroma. Use in English, Belgian, and US ales."
+},{
+"name": "Styrian Golding",
+"aa": 5,
+"flavor": "Delicate, slightly spicy.",
+"substitutions": "U.K. Fuggle, U.S. Fuggle, Willamette",
+"origin": "USA",
+"history": "Fuggle hops grown in Slovenia. See Fuggle above for more information."
+},{
+"name": "Summit",
+"aa": 17,
+"flavor": "Citrus, grapefruit",
+"substitutions": "Simcoe",
+"origin": "USA",
+"history": "This dwarf hop is bred in Yakima, Washington, and is at the top of the alpha acid list making it great for bittering and dry-hopping. Released in 2003. It has a citrus and grapefruit flavor."
+},{
+"name": "Sun",
+"aa": 14,
+"flavor": "High-alpha hop with intense character",
+"substitutions": "Magnum or a high-alpha hop",
+"origin": "USA",
+"history": "A very high alpha acid bittering hop from Washington state, a sister to Zeus most likely derived from Northern Brewer. Reportedly has an intense but pleasant aroma. Sun is a proprietary hop controlled by S.S. Steiner, Inc."
+},{
+"name": "Super Alpha",
+"aa": 11,
+"flavor": "Earthy, piney bittering hop.",
+"substitutions": "N/A",
+"origin": "New Zealand",
+"history": "N/A"
+},{
+"name": "Super Galena",
+"aa": 15,
+"flavor": "citrus aroma",
+"substitutions": "Galena, Nugget",
+"origin": "USA",
+"history": "Super Galena is a super high alpha variety developed by the Hopsteiner breeding program and released in 2006. It has relatively high contents of both alpha and beta acids, making it a good bittering hop with pleasant aroma. Super Galena is comparable to Galena in its aroma and bitterness profile, but offers a substantially higher yield and complete resistance to all current hop powdery mildew strains found in the U.S.   "
+},{
+"name": "Super Pride",
+"aa": 14,
+"flavor": "A high alpha variety bred from Pride of Ringwood.",
+"substitutions": "Pride of Ringwood",
+"origin": "Australia",
+"history": "N/A"
+},{
+"name": "Surly Furious Dry Hop Blend",
+"aa": 12,
+"flavor": "A proprietary blend of hops used in Surly Furious",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Blend consists of 58.8% Simcoe, 29.4% Ahtanum, 5.9% Amarillo, 5.9% Warrior at a rate of 8.5oz. per 5 gallons. Breakdown for 5 gallons: 5oz Simcoe, 2.5oz Ahtanum, 0.5oz Amarillo, 0.5oz Warrior "
+},{
+"name": "Target",
+"aa": 11,
+"flavor": "Pleasant English hop aroma, quite intense.",
+"substitutions": "Fuggle, Willamette",
+"origin": "United Kingdom",
+"history": "This popular UK hop was bred at Wye College and released in 1972. Mainly used for bittering, but has a decent aroma. It has herbal, grassy, and earthy characteristics and is fairly intense. Fuggles and Willamette can be used as replacements."
+},{
+"name": "Tettnanger (German)",
+"aa": 5,
+"flavor": "Mild and pleasant, slightly spicy, herbal.",
+"substitutions": "German Spalt, German Spalt Select, Saaz, U.S. Tettnanger",
+"origin": "Germany",
+"history": "This old noble hop hails from the town of Tettnang, Germany. Mainly used for aroma and flavor. Character is mild, herbal and slightly spicy. Also grown in the USA (Oregon and Washington). Spalt and Saaz are possible replacements."
+},{
+"name": "Tettnanger (U.S.)",
+"aa": 4,
+"flavor": "An aromatic hop, mild and slightly spicy.",
+"substitutions": "Czech Saaz, German Spalt, Santiam",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Tillicum",
+"aa": 13,
+"flavor": "Similar to galena",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "Tillicum is a high alpha variety with a very high content of beta acids. The variety was developed through the John I. Haas, Inc. breeding program and released in 1995. It is a daughter of Galena and a full sister to Chelan and therefore has analytical data similar to both varieties."
+},{
+"name": "Tomahawk",
+"aa": 16,
+"flavor": "Earthy, spicy, pungent, with a light citrus character.",
+"substitutions": "Columbus",
+"origin": "USA",
+"history": "Also known as Columbus and Zues this hop was developed by the HopUnion breeding program. Earthy, spicy, pungent, with a light citrus character. Excellent for dry-hopping."
+},{
+"name": "Tradition",
+"aa": 6,
+"flavor": "Very fine and similar to Hallertauer Mittelfrüh.",
+"substitutions": "Hallertauer Mittelfrüh, Hersbrucker",
+"origin": "Germany",
+"history": "Bred for disease resistance at the Hüll Hop Research Institute, this hop was released in 1991 and is very similar to Hallertau Mittlefrüh. It is used for both bittering and aroma."
+},{
+"name": "Ultra",
+"aa": 3,
+"flavor": "Very good to outstanding, some Saaz-like qualities. Aromatic properties similar to Hallertauer.",
+"substitutions": "Hallertauer Tradition, Liberty, Saaz",
+"origin": "USA",
+"history": "Originally bred in 1983 and released in 1995, this triploid hop is a cross of Hallertauer Mittelfrüh, Saaz, and an N/A variety. Mainly used for aroma, they are spicy and floral."
+},{
+"name": "Vanguard",
+"aa": 6,
+"flavor": "Aroma similar to continental European types.",
+"substitutions": "Hallertauer Mittelfrüh, Saaz",
+"origin": "USA",
+"history": "Originally bred in 1982 and released in 1997, this hop was made from a descendant Hallertauer Mittelfrüh. Used for its aromatic qualities and has characteristics similar to Hallertau MF."
+},{
+"name": "Warrior",
+"aa": 16,
+"flavor": "A bittering and aromatic hop.",
+"substitutions": "Nugget",
+"origin": "USA",
+"history": "Bred at Yakima Chief Ranches in Washington in 2001(?), this newer hop is used for bittering and aroma. It has a grapefruit/lemon character with smooth bitterness. A good replacement for Nugget or Columbus."
+},{
+"name": "Whitbread Golding",
+"aa": 6,
+"flavor": "Quite pleasant and hoppy, moderately intense.",
+"substitutions": "U.K. Kent Golding, U.K. Progress",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Willamette",
+"aa": 5,
+"flavor": "Mild and pleasant, slightly spicy, fruity, floral, a little earthy.",
+"substitutions": "Styrian Golding, U.S. Fuggle, U.S. Tettnanger",
+"origin": "USA",
+"history": "Released in Oregon in 1976, this is a triploid variety derived from Fuggle hops. They are named after the Willamette River in Oregon. Used for aroma, they have woody, earthy and herbal characteristics."
+},{
+"name": "Yakima Cluster",
+"aa": 7,
+"flavor": "Used as a kettle hop for bittering.",
+"substitutions": "N/A",
+"origin": "USA",
+"history": "N/A"
+},{
+"name": "Yeoman",
+"aa": 12,
+"flavor": "Pleasant English hop aroma, quite intense, similar to target hops",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Zenith",
+"aa": 10,
+"flavor": "Aroma",
+"substitutions": "N/A",
+"origin": "United Kingdom",
+"history": "N/A"
+},{
+"name": "Zeus",
+"aa": 14,
+"flavor": "Earthy, spicy, pungent, with a light citrus character.",
+"substitutions": "Columbus",
+"origin": "USA",
+"history": "Also known as Tomahawk and Zues this hop was developed by the HopUnion breeding program. Earthy, spicy, pungent, with a light citrus character. Excellent for dry-hopping."
+},{
+"name": "Zythos",
+"aa": 11,
+"flavor": "Zythos is strongly aromatic, with tangerine, lemon, grapefruit, and pine notes.",
+"substitutions": "Amarillo, Sorachi Ace, Simcoe",
+"origin": "USA",
+"history": "A proprietary blend of hops from HopUnion, designed for complex flavor in IPAs and similar hoppy American styles. Zythos is strongly aromatic, with tangerine, lemon, grapefruit, and pine notes. Try it in place of Amarillo, Sorachi Ace, or Simcoe."
 }]
